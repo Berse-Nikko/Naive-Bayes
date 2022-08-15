@@ -6,4 +6,4 @@ Created by (GROUP 8):
 	Narvasa, Chyril 
 	Waquez, Emerson Tamsi
 	
-	of BSCS 4-2 (AY 2021-2022)
+of BSCS 4-2 (AY 2021-2022)
