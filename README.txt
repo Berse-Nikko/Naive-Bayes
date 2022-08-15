@@ -1,5 +1,4 @@
-# Naive-Bayes
-[PROJECT] Using Naive Bayes in predicting Students Adaptability Level
+Using Naive Bayes in predicting Students Adaptability Level
 
 Created by (GROUP 3):
 	Berse, Nikko
