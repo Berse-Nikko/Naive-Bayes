@@ -1,0 +1,1206 @@
+Institution Type,IT Student,Location,Load-shedding,Financial Condition,Internet Type,Network Type,Device,Adaptivity Level
+Non Government,No,Yes,Low,Mid,Wifi,4G,Tab,Moderate
+Non Government,No,Yes,High,Mid,Mobile Data,4G,Mobile,Moderate
+Government,No,Yes,Low,Mid,Wifi,4G,Mobile,Moderate
+Non Government,No,Yes,Low,Mid,Mobile Data,4G,Mobile,Moderate
+Non Government,No,Yes,Low,Poor,Mobile Data,3G,Mobile,Low
+Non Government,No,Yes,Low,Poor,Mobile Data,3G,Mobile,Low
+Non Government,No,Yes,Low,Mid,Wifi,4G,Mobile,Low
+Non Government,No,Yes,Low,Mid,Wifi,4G,Mobile,Moderate
+Government,No,Yes,Low,Mid,Wifi,4G,Mobile,Low
+Non Government,No,Yes,Low,Mid,Mobile Data,3G,Mobile,Moderate
+Government,No,Yes,Low,Mid,Wifi,4G,Mobile,Low
+Non Government,No,Yes,Low,Mid,Wifi,4G,Mobile,Low
+Non Government,Yes,Yes,Low,Mid,Mobile Data,3G,Mobile,Moderate
+Non Government,No,No,Low,Mid,Wifi,4G,Mobile,Low
+Non Government,No,Yes,Low,Poor,Mobile Data,3G,Mobile,Moderate
+Non Government,No,Yes,High,Poor,Wifi,4G,Mobile,Low
+Government,Yes,Yes,Low,Poor,Mobile Data,4G,Computer,Low
+Government,No,No,Low,Mid,Wifi,4G,Mobile,Low
+Non Government,No,Yes,High,Mid,Wifi,4G,Mobile,Low
+Non Government,No,Yes,High,Mid,Wifi,4G,Mobile,Moderate
+Non Government,No,Yes,Low,Rich,Wifi,4G,Mobile,High
+Government,No,Yes,Low,Mid,Mobile Data,4G,Mobile,Low
+Non Government,No,No,Low,Mid,Mobile Data,3G,Mobile,Low
+Non Government,No,Yes,Low,Mid,Mobile Data,3G,Mobile,Moderate
+Government,No,Yes,Low,Mid,Wifi,4G,Mobile,Moderate
+Non Government,No,Yes,Low,Mid,Mobile Data,4G,Mobile,Moderate
+Non Government,No,Yes,Low,Mid,Mobile Data,4G,Mobile,Moderate
+Non Government,Yes,Yes,Low,Mid,Wifi,4G,Computer,Moderate
+Non Government,No,Yes,Low,Mid,Mobile Data,4G,Mobile,Moderate
+Non Government,No,Yes,High,Mid,Wifi,4G,Mobile,Moderate
+Non Government,No,Yes,Low,Mid,Mobile Data,3G,Mobile,Moderate
+Non Government,No,No,Low,Mid,Mobile Data,4G,Mobile,Low
+Non Government,Yes,Yes,Low,Mid,Mobile Data,4G,Mobile,Moderate
+Non Government,No,Yes,Low,Mid,Wifi,4G,Mobile,Moderate
+Non Government,No,Yes,Low,Poor,Mobile Data,3G,Mobile,Low
+Non Government,Yes,Yes,Low,Mid,Wifi,3G,Mobile,Moderate
+Government,Yes,Yes,Low,Mid,Mobile Data,4G,Mobile,Moderate
+Non Government,No,Yes,Low,Poor,Mobile Data,3G,Mobile,High
+Government,No,No,Low,Poor,Mobile Data,4G,Mobile,Low
+Government,No,Yes,Low,Mid,Wifi,3G,Mobile,Low
+Non Government,No,Yes,Low,Mid,Wifi,4G,Computer,Moderate
+Non Government,Yes,Yes,Low,Mid,Wifi,4G,Mobile,Moderate
+Non Government,No,Yes,Low,Poor,Mobile Data,3G,Mobile,Low
+Non Government,No,Yes,Low,Mid,Mobile Data,4G,Mobile,Moderate
+Non Government,Yes,Yes,Low,Mid,Wifi,3G,Computer,Low
+Non Government,Yes,Yes,Low,Mid,Wifi,4G,Computer,Moderate
+Non Government,No,Yes,Low,Poor,Mobile Data,4G,Mobile,Moderate
+Non Government,No,Yes,Low,Mid,Mobile Data,3G,Mobile,Moderate
+Non Government,No,Yes,Low,Mid,Mobile Data,4G,Mobile,Moderate
+Non Government,Yes,Yes,Low,Mid,Wifi,3G,Computer,Low
+Government,No,Yes,Low,Mid,Wifi,4G,Mobile,Low
+Non Government,No,Yes,Low,Mid,Mobile Data,4G,Mobile,Moderate
+Non Government,Yes,Yes,High,Mid,Mobile Data,3G,Mobile,Moderate
+Government,Yes,No,Low,Poor,Mobile Data,4G,Mobile,Moderate
+Non Government,No,Yes,Low,Poor,Mobile Data,4G,Mobile,Low
+Non Government,No,Yes,Low,Mid,Mobile Data,4G,Mobile,Moderate
+Government,No,Yes,Low,Mid,Mobile Data,4G,Mobile,Low
+Non Government,Yes,Yes,Low,Mid,Mobile Data,3G,Mobile,Low
+Non Government,No,No,High,Mid,Mobile Data,3G,Mobile,Low
+Government,No,No,Low,Poor,Mobile Data,3G,Mobile,Low
+Non Government,No,Yes,Low,Mid,Wifi,4G,Mobile,Moderate
+Government,No,No,Low,Mid,Mobile Data,4G,Mobile,Low
+Non Government,No,Yes,Low,Mid,Mobile Data,3G,Mobile,Moderate
+Non Government,Yes,Yes,Low,Mid,Mobile Data,4G,Mobile,Moderate
+Non Government,No,Yes,High,Poor,Wifi,4G,Mobile,Low
+Government,No,No,Low,Mid,Mobile Data,4G,Mobile,High
+Non Government,No,Yes,Low,Mid,Mobile Data,3G,Mobile,Moderate
+Government,No,No,Low,Mid,Mobile Data,3G,Mobile,Low
+Government,No,Yes,Low,Mid,Wifi,4G,Mobile,Low
+Non Government,Yes,Yes,Low,Mid,Mobile Data,4G,Mobile,Moderate
+Government,No,No,High,Poor,Mobile Data,3G,Mobile,Low
+Government,No,No,Low,Mid,Mobile Data,4G,Mobile,Low
+Government,No,Yes,Low,Mid,Mobile Data,4G,Mobile,Low
+Non Government,No,Yes,Low,Poor,Mobile Data,3G,Mobile,Low
+Non Government,Yes,Yes,Low,Mid,Mobile Data,4G,Mobile,Moderate
+Non Government,No,Yes,Low,Mid,Mobile Data,2G,Mobile,Low
+Non Government,No,Yes,Low,Mid,Mobile Data,3G,Mobile,Moderate
+Government,No,No,High,Mid,Mobile Data,4G,Mobile,Low
+Non Government,No,Yes,Low,Mid,Mobile Data,4G,Mobile,Moderate
+Non Government,No,Yes,Low,Mid,Mobile Data,4G,Mobile,Moderate
+Non Government,No,Yes,Low,Poor,Mobile Data,3G,Mobile,Low
+Non Government,No,Yes,Low,Mid,Mobile Data,4G,Mobile,Moderate
+Non Government,Yes,Yes,Low,Mid,Wifi,4G,Computer,Moderate
+Government,No,No,Low,Mid,Mobile Data,3G,Mobile,Low
+Non Government,No,Yes,Low,Poor,Mobile Data,4G,Mobile,Moderate
+Non Government,No,Yes,Low,Mid,Mobile Data,3G,Mobile,Moderate
+Non Government,No,Yes,Low,Mid,Mobile Data,4G,Mobile,High
+Non Government,Yes,Yes,Low,Mid,Wifi,4G,Mobile,Moderate
+Non Government,No,Yes,High,Mid,Wifi,4G,Mobile,Moderate
+Government,No,No,Low,Poor,Mobile Data,4G,Mobile,Low
+Non Government,No,No,Low,Mid,Mobile Data,4G,Mobile,Moderate
+Non Government,Yes,Yes,Low,Mid,Wifi,4G,Computer,Moderate
+Non Government,Yes,Yes,Low,Mid,Wifi,3G,Computer,Moderate
+Non Government,Yes,Yes,High,Poor,Mobile Data,3G,Mobile,Low
+Non Government,No,Yes,Low,Poor,Mobile Data,4G,Mobile,Moderate
+Non Government,Yes,Yes,Low,Mid,Wifi,4G,Computer,Moderate
+Non Government,No,Yes,Low,Mid,Mobile Data,4G,Mobile,Moderate
+Government,No,No,High,Poor,Mobile Data,2G,Mobile,Low
+Non Government,Yes,Yes,Low,Mid,Wifi,4G,Mobile,Moderate
+Government,No,Yes,Low,Mid,Wifi,4G,Mobile,Low
+Non Government,No,Yes,Low,Mid,Wifi,4G,Mobile,Low
+Non Government,No,Yes,Low,Mid,Wifi,4G,Computer,Moderate
+Non Government,No,No,High,Mid,Mobile Data,3G,Mobile,Low
+Non Government,Yes,Yes,Low,Mid,Mobile Data,4G,Mobile,Moderate
+Non Government,No,Yes,Low,Poor,Wifi,4G,Mobile,Moderate
+Government,No,Yes,Low,Mid,Wifi,4G,Computer,Moderate
+Non Government,No,Yes,Low,Mid,Mobile Data,3G,Mobile,Moderate
+Non Government,No,Yes,Low,Mid,Wifi,4G,Computer,Moderate
+Non Government,No,Yes,Low,Mid,Wifi,4G,Tab,Moderate
+Non Government,No,Yes,Low,Mid,Wifi,3G,Mobile,High
+Government,No,Yes,Low,Mid,Mobile Data,4G,Mobile,Low
+Non Government,No,Yes,Low,Mid,Wifi,4G,Mobile,Low
+Government,No,No,Low,Mid,Mobile Data,3G,Mobile,Low
+Non Government,Yes,Yes,High,Poor,Mobile Data,3G,Mobile,Moderate
+Non Government,No,Yes,Low,Mid,Wifi,4G,Mobile,Moderate
+Non Government,No,Yes,Low,Mid,Wifi,4G,Computer,Moderate
+Government,Yes,Yes,Low,Mid,Wifi,4G,Computer,Low
+Non Government,Yes,Yes,High,Mid,Wifi,4G,Computer,Low
+Government,No,No,High,Poor,Mobile Data,3G,Mobile,Moderate
+Non Government,Yes,No,Low,Mid,Mobile Data,3G,Mobile,Moderate
+Non Government,No,Yes,High,Mid,Wifi,4G,Computer,Moderate
+Non Government,No,Yes,Low,Mid,Wifi,4G,Mobile,Low
+Non Government,No,Yes,Low,Mid,Mobile Data,4G,Mobile,Moderate
+Non Government,No,Yes,Low,Mid,Mobile Data,3G,Mobile,Moderate
+Non Government,Yes,Yes,Low,Mid,Wifi,4G,Computer,Moderate
+Non Government,No,Yes,Low,Poor,Mobile Data,3G,Mobile,Low
+Government,No,Yes,Low,Mid,Mobile Data,4G,Mobile,Low
+Government,No,Yes,Low,Mid,Wifi,4G,Mobile,Moderate
+Government,No,Yes,Low,Mid,Wifi,4G,Mobile,Low
+Non Government,Yes,Yes,Low,Rich,Wifi,4G,Computer,High
+Non Government,Yes,Yes,Low,Mid,Wifi,3G,Mobile,Moderate
+Government,Yes,No,High,Mid,Mobile Data,3G,Mobile,Low
+Non Government,Yes,No,High,Mid,Mobile Data,3G,Mobile,High
+Government,No,Yes,Low,Poor,Mobile Data,4G,Mobile,Low
+Non Government,Yes,Yes,High,Mid,Mobile Data,3G,Mobile,Moderate
+Government,Yes,Yes,Low,Mid,Wifi,4G,Computer,Low
+Non Government,No,Yes,Low,Poor,Mobile Data,3G,Mobile,Low
+Non Government,No,Yes,Low,Mid,Mobile Data,4G,Mobile,Moderate
+Non Government,No,Yes,Low,Poor,Mobile Data,4G,Mobile,Moderate
+Non Government,No,Yes,Low,Mid,Mobile Data,4G,Mobile,Moderate
+Non Government,No,Yes,Low,Poor,Mobile Data,3G,Mobile,Low
+Non Government,Yes,Yes,High,Mid,Mobile Data,3G,Mobile,Moderate
+Non Government,Yes,Yes,Low,Mid,Mobile Data,3G,Mobile,Moderate
+Non Government,No,No,Low,Mid,Mobile Data,3G,Mobile,Moderate
+Government,No,No,Low,Poor,Mobile Data,3G,Mobile,Low
+Non Government,No,Yes,Low,Mid,Wifi,4G,Computer,Moderate
+Non Government,Yes,Yes,High,Poor,Wifi,3G,Computer,Moderate
+Non Government,No,Yes,Low,Mid,Wifi,4G,Mobile,Low
+Non Government,No,Yes,High,Poor,Wifi,4G,Mobile,Low
+Government,No,No,Low,Mid,Mobile Data,2G,Mobile,Low
+Non Government,No,Yes,Low,Poor,Mobile Data,4G,Mobile,Moderate
+Government,No,No,Low,Mid,Wifi,4G,Mobile,Low
+Non Government,No,Yes,Low,Rich,Mobile Data,4G,Mobile,High
+Non Government,No,Yes,Low,Rich,Wifi,4G,Mobile,Moderate
+Non Government,Yes,Yes,Low,Mid,Wifi,4G,Computer,Low
+Government,Yes,Yes,Low,Mid,Mobile Data,3G,Computer,Low
+Non Government,No,Yes,Low,Poor,Mobile Data,4G,Mobile,Low
+Government,Yes,Yes,Low,Rich,Wifi,4G,Computer,High
+Non Government,No,Yes,Low,Mid,Mobile Data,4G,Mobile,Moderate
+Non Government,Yes,Yes,High,Mid,Mobile Data,3G,Computer,Moderate
+Non Government,Yes,Yes,Low,Mid,Wifi,3G,Mobile,Low
+Non Government,Yes,No,High,Mid,Mobile Data,3G,Mobile,High
+Government,No,No,Low,Poor,Mobile Data,4G,Mobile,Moderate
+Government,No,No,Low,Mid,Mobile Data,3G,Mobile,Low
+Government,No,No,High,Poor,Mobile Data,4G,Mobile,Low
+Non Government,No,Yes,Low,Mid,Mobile Data,4G,Mobile,Moderate
+Government,No,No,High,Poor,Mobile Data,3G,Mobile,Low
+Government,No,No,Low,Mid,Mobile Data,4G,Mobile,High
+Non Government,No,Yes,Low,Mid,Mobile Data,4G,Mobile,Moderate
+Government,Yes,Yes,Low,Mid,Mobile Data,4G,Mobile,Low
+Non Government,Yes,Yes,Low,Mid,Wifi,3G,Computer,Moderate
+Government,No,Yes,Low,Mid,Wifi,4G,Mobile,Low
+Non Government,No,Yes,High,Mid,Wifi,4G,Mobile,Low
+Non Government,Yes,Yes,Low,Rich,Wifi,4G,Computer,High
+Government,No,Yes,Low,Mid,Mobile Data,4G,Mobile,Moderate
+Non Government,Yes,Yes,Low,Mid,Wifi,4G,Computer,Low
+Non Government,No,Yes,Low,Poor,Wifi,3G,Mobile,Moderate
+Government,Yes,Yes,Low,Mid,Mobile Data,4G,Mobile,Low
+Non Government,Yes,Yes,Low,Mid,Mobile Data,3G,Mobile,Low
+Non Government,No,Yes,Low,Poor,Mobile Data,3G,Mobile,Low
+Government,No,Yes,Low,Mid,Wifi,4G,Computer,Moderate
+Non Government,No,Yes,Low,Mid,Wifi,4G,Mobile,Low
+Non Government,No,Yes,Low,Mid,Wifi,4G,Mobile,Moderate
+Non Government,No,Yes,Low,Rich,Wifi,4G,Computer,Moderate
+Non Government,No,Yes,Low,Mid,Wifi,4G,Mobile,Low
+Non Government,No,Yes,Low,Poor,Mobile Data,3G,Mobile,Low
+Non Government,Yes,Yes,Low,Mid,Mobile Data,3G,Mobile,Moderate
+Government,No,Yes,Low,Mid,Mobile Data,4G,Mobile,Low
+Non Government,No,Yes,Low,Mid,Mobile Data,4G,Mobile,Moderate
+Non Government,No,Yes,Low,Mid,Wifi,4G,Tab,Moderate
+Non Government,No,Yes,High,Poor,Wifi,4G,Mobile,Low
+Non Government,Yes,Yes,High,Mid,Mobile Data,3G,Mobile,Moderate
+Non Government,Yes,Yes,High,Mid,Mobile Data,3G,Mobile,Moderate
+Government,No,No,Low,Poor,Mobile Data,3G,Mobile,Low
+Government,No,No,Low,Mid,Mobile Data,4G,Mobile,Low
+Non Government,Yes,Yes,Low,Mid,Wifi,3G,Mobile,Low
+Government,No,Yes,Low,Poor,Mobile Data,4G,Mobile,Low
+Non Government,Yes,Yes,Low,Poor,Mobile Data,4G,Mobile,Moderate
+Non Government,No,Yes,Low,Mid,Mobile Data,3G,Mobile,Moderate
+Government,No,Yes,Low,Mid,Wifi,3G,Mobile,Low
+Government,No,Yes,Low,Mid,Mobile Data,4G,Mobile,Low
+Non Government,No,Yes,Low,Poor,Mobile Data,3G,Mobile,Low
+Non Government,No,Yes,Low,Poor,Mobile Data,3G,Mobile,Low
+Non Government,Yes,Yes,Low,Mid,Wifi,4G,Mobile,Moderate
+Non Government,No,Yes,Low,Poor,Mobile Data,3G,Mobile,Low
+Government,No,Yes,Low,Mid,Wifi,4G,Mobile,High
+Non Government,Yes,Yes,Low,Mid,Wifi,4G,Computer,Moderate
+Non Government,No,Yes,Low,Poor,Mobile Data,3G,Mobile,Low
+Government,No,Yes,Low,Mid,Wifi,4G,Mobile,Low
+Non Government,Yes,Yes,High,Mid,Wifi,3G,Mobile,Low
+Government,No,No,High,Poor,Mobile Data,2G,Mobile,Low
+Government,No,No,Low,Rich,Mobile Data,4G,Mobile,High
+Government,No,No,High,Mid,Mobile Data,3G,Mobile,Low
+Non Government,No,Yes,High,Mid,Wifi,4G,Computer,Moderate
+Government,Yes,Yes,Low,Mid,Mobile Data,4G,Mobile,Moderate
+Government,No,Yes,Low,Rich,Mobile Data,4G,Mobile,Moderate
+Non Government,No,Yes,Low,Mid,Mobile Data,4G,Mobile,Moderate
+Non Government,No,Yes,Low,Poor,Mobile Data,3G,Mobile,Low
+Non Government,Yes,Yes,High,Poor,Wifi,3G,Mobile,Low
+Government,No,No,Low,Mid,Mobile Data,3G,Mobile,Low
+Non Government,Yes,Yes,Low,Mid,Wifi,3G,Computer,Moderate
+Non Government,No,Yes,Low,Mid,Mobile Data,4G,Mobile,Moderate
+Non Government,No,Yes,Low,Mid,Mobile Data,3G,Mobile,Moderate
+Non Government,No,Yes,Low,Mid,Mobile Data,3G,Mobile,Moderate
+Non Government,No,No,Low,Mid,Wifi,4G,Mobile,Low
+Non Government,Yes,Yes,Low,Mid,Mobile Data,3G,Mobile,Moderate
+Non Government,Yes,Yes,High,Mid,Mobile Data,3G,Mobile,Moderate
+Non Government,No,Yes,Low,Poor,Mobile Data,4G,Mobile,Low
+Non Government,No,Yes,Low,Mid,Mobile Data,3G,Mobile,Moderate
+Non Government,No,Yes,Low,Poor,Mobile Data,3G,Mobile,Moderate
+Non Government,No,Yes,Low,Poor,Wifi,3G,Mobile,Moderate
+Non Government,Yes,Yes,Low,Mid,Wifi,4G,Mobile,Moderate
+Non Government,No,Yes,Low,Mid,Wifi,4G,Mobile,Low
+Government,No,Yes,Low,Mid,Wifi,4G,Mobile,High
+Non Government,Yes,No,Low,Mid,Wifi,4G,Computer,Moderate
+Non Government,Yes,No,High,Poor,Mobile Data,3G,Mobile,Moderate
+Non Government,No,Yes,Low,Mid,Wifi,4G,Computer,Moderate
+Government,No,Yes,Low,Mid,Mobile Data,4G,Mobile,Low
+Non Government,No,Yes,Low,Mid,Wifi,2G,Mobile,Moderate
+Non Government,Yes,Yes,Low,Mid,Wifi,4G,Mobile,Low
+Government,No,Yes,Low,Mid,Mobile Data,4G,Mobile,Low
+Non Government,No,Yes,Low,Mid,Mobile Data,4G,Mobile,Moderate
+Government,No,Yes,Low,Rich,Wifi,4G,Mobile,Moderate
+Non Government,No,No,High,Mid,Wifi,4G,Mobile,Moderate
+Non Government,No,No,High,Mid,Mobile Data,3G,Mobile,Low
+Non Government,No,Yes,Low,Poor,Wifi,4G,Mobile,Moderate
+Non Government,Yes,Yes,Low,Mid,Wifi,3G,Computer,Moderate
+Non Government,No,Yes,Low,Poor,Mobile Data,3G,Mobile,Low
+Non Government,Yes,Yes,High,Mid,Mobile Data,3G,Mobile,Moderate
+Government,Yes,Yes,Low,Mid,Mobile Data,3G,Mobile,Moderate
+Non Government,No,Yes,Low,Mid,Wifi,4G,Computer,Moderate
+Non Government,No,Yes,High,Mid,Wifi,4G,Mobile,Low
+Government,No,No,Low,Mid,Wifi,4G,Mobile,Low
+Government,No,No,Low,Poor,Mobile Data,3G,Mobile,Low
+Non Government,No,Yes,Low,Poor,Wifi,3G,Mobile,Moderate
+Non Government,No,Yes,Low,Mid,Mobile Data,3G,Mobile,Moderate
+Government,No,Yes,High,Mid,Wifi,4G,Mobile,Moderate
+Non Government,No,Yes,Low,Mid,Mobile Data,4G,Mobile,Moderate
+Non Government,No,Yes,Low,Poor,Mobile Data,3G,Mobile,Low
+Government,Yes,Yes,Low,Rich,Wifi,4G,Mobile,High
+Non Government,No,Yes,Low,Poor,Mobile Data,3G,Mobile,Low
+Non Government,Yes,Yes,Low,Mid,Mobile Data,3G,Mobile,Low
+Non Government,No,Yes,High,Mid,Wifi,4G,Mobile,Moderate
+Non Government,No,Yes,Low,Poor,Mobile Data,4G,Mobile,Low
+Government,No,Yes,Low,Mid,Wifi,4G,Mobile,Low
+Non Government,No,Yes,Low,Poor,Wifi,4G,Mobile,Moderate
+Government,No,Yes,Low,Mid,Wifi,4G,Mobile,Moderate
+Government,No,Yes,Low,Mid,Wifi,4G,Mobile,Low
+Non Government,No,Yes,Low,Mid,Wifi,4G,Mobile,Moderate
+Non Government,No,Yes,Low,Poor,Mobile Data,4G,Mobile,High
+Non Government,Yes,Yes,Low,Mid,Mobile Data,4G,Mobile,Moderate
+Non Government,No,Yes,Low,Mid,Wifi,4G,Mobile,Moderate
+Government,No,Yes,Low,Mid,Mobile Data,4G,Mobile,Moderate
+Non Government,No,Yes,Low,Mid,Mobile Data,3G,Mobile,Moderate
+Non Government,No,Yes,Low,Mid,Mobile Data,2G,Mobile,Low
+Non Government,No,Yes,Low,Mid,Mobile Data,4G,Mobile,Moderate
+Non Government,Yes,Yes,Low,Mid,Mobile Data,3G,Mobile,Low
+Government,No,No,Low,Mid,Mobile Data,2G,Mobile,Low
+Non Government,No,No,Low,Poor,Mobile Data,4G,Mobile,Low
+Non Government,No,Yes,Low,Mid,Mobile Data,3G,Mobile,Low
+Government,No,No,Low,Poor,Mobile Data,4G,Mobile,Low
+Government,No,No,Low,Mid,Mobile Data,4G,Mobile,Low
+Non Government,Yes,Yes,High,Mid,Wifi,4G,Mobile,Low
+Non Government,Yes,Yes,High,Poor,Wifi,4G,Computer,High
+Non Government,No,No,Low,Mid,Mobile Data,4G,Mobile,Moderate
+Government,Yes,No,Low,Poor,Mobile Data,4G,Mobile,Low
+Non Government,Yes,Yes,High,Mid,Mobile Data,3G,Mobile,Moderate
+Non Government,No,Yes,Low,Mid,Wifi,4G,Mobile,Low
+Non Government,No,Yes,Low,Mid,Wifi,4G,Mobile,Low
+Non Government,No,Yes,Low,Poor,Mobile Data,4G,Mobile,Moderate
+Non Government,No,Yes,Low,Mid,Mobile Data,4G,Mobile,Moderate
+Non Government,No,Yes,Low,Mid,Wifi,4G,Mobile,Moderate
+Non Government,No,Yes,Low,Mid,Mobile Data,4G,Mobile,Moderate
+Government,No,Yes,Low,Mid,Mobile Data,4G,Mobile,Moderate
+Government,No,Yes,Low,Rich,Mobile Data,4G,Mobile,Low
+Non Government,No,Yes,Low,Poor,Mobile Data,4G,Mobile,Moderate
+Non Government,No,Yes,Low,Rich,Wifi,4G,Tab,High
+Government,No,No,High,Mid,Mobile Data,4G,Mobile,Moderate
+Non Government,No,Yes,Low,Mid,Mobile Data,4G,Mobile,Moderate
+Non Government,No,Yes,Low,Mid,Wifi,4G,Mobile,Moderate
+Non Government,No,Yes,Low,Rich,Wifi,4G,Computer,High
+Non Government,Yes,Yes,High,Mid,Mobile Data,3G,Mobile,Moderate
+Non Government,No,Yes,Low,Mid,Wifi,4G,Mobile,Low
+Non Government,No,Yes,Low,Poor,Mobile Data,4G,Mobile,Moderate
+Government,No,No,High,Poor,Mobile Data,4G,Mobile,Moderate
+Non Government,No,Yes,Low,Mid,Wifi,4G,Computer,Low
+Government,Yes,Yes,Low,Mid,Wifi,4G,Tab,Moderate
+Non Government,No,Yes,Low,Rich,Mobile Data,3G,Mobile,Moderate
+Non Government,No,Yes,Low,Mid,Wifi,4G,Tab,Moderate
+Government,Yes,Yes,Low,Mid,Mobile Data,3G,Mobile,Moderate
+Non Government,No,Yes,Low,Poor,Mobile Data,4G,Mobile,Moderate
+Non Government,No,No,Low,Mid,Wifi,4G,Mobile,Low
+Non Government,No,Yes,Low,Poor,Mobile Data,3G,Mobile,Moderate
+Non Government,No,Yes,High,Mid,Wifi,4G,Mobile,Moderate
+Non Government,No,Yes,Low,Mid,Wifi,4G,Mobile,Moderate
+Non Government,No,Yes,Low,Poor,Mobile Data,3G,Mobile,Low
+Non Government,No,Yes,Low,Mid,Wifi,4G,Tab,Moderate
+Government,No,Yes,Low,Mid,Wifi,4G,Mobile,Low
+Non Government,No,Yes,High,Mid,Wifi,4G,Mobile,Low
+Non Government,No,Yes,Low,Poor,Mobile Data,3G,Mobile,Low
+Non Government,No,Yes,Low,Rich,Mobile Data,3G,Mobile,Moderate
+Non Government,No,Yes,Low,Mid,Mobile Data,4G,Mobile,Low
+Non Government,No,Yes,Low,Mid,Mobile Data,4G,Mobile,Moderate
+Non Government,No,Yes,Low,Poor,Mobile Data,3G,Mobile,Low
+Non Government,No,No,Low,Mid,Mobile Data,3G,Mobile,Low
+Government,Yes,No,High,Mid,Mobile Data,3G,Mobile,Moderate
+Non Government,No,Yes,Low,Poor,Mobile Data,4G,Mobile,Moderate
+Government,No,Yes,Low,Mid,Wifi,4G,Mobile,Moderate
+Non Government,No,No,Low,Mid,Mobile Data,4G,Mobile,Moderate
+Government,No,No,High,Mid,Mobile Data,3G,Mobile,Low
+Non Government,No,Yes,Low,Mid,Mobile Data,3G,Mobile,Moderate
+Government,Yes,Yes,Low,Mid,Wifi,3G,Mobile,Low
+Non Government,No,Yes,High,Poor,Wifi,4G,Mobile,Low
+Non Government,Yes,No,Low,Mid,Mobile Data,3G,Mobile,Moderate
+Non Government,No,Yes,Low,Mid,Wifi,4G,Mobile,Moderate
+Non Government,Yes,Yes,Low,Mid,Wifi,4G,Mobile,Moderate
+Non Government,No,Yes,Low,Mid,Mobile Data,4G,Mobile,Low
+Government,No,Yes,Low,Mid,Wifi,4G,Mobile,Low
+Non Government,No,Yes,Low,Mid,Mobile Data,4G,Mobile,Moderate
+Government,No,No,Low,Poor,Mobile Data,4G,Mobile,Low
+Non Government,No,Yes,Low,Mid,Mobile Data,4G,Mobile,Moderate
+Government,Yes,Yes,Low,Mid,Mobile Data,4G,Mobile,Moderate
+Non Government,No,Yes,Low,Mid,Mobile Data,4G,Mobile,Moderate
+Government,No,Yes,Low,Mid,Wifi,4G,Mobile,Moderate
+Non Government,Yes,Yes,Low,Mid,Wifi,3G,Computer,Low
+Non Government,Yes,No,High,Poor,Mobile Data,3G,Mobile,Moderate
+Government,No,Yes,Low,Mid,Mobile Data,4G,Mobile,Low
+Non Government,No,Yes,Low,Rich,Wifi,4G,Mobile,Moderate
+Non Government,No,Yes,Low,Poor,Mobile Data,3G,Mobile,Low
+Non Government,No,Yes,Low,Poor,Mobile Data,4G,Mobile,Moderate
+Non Government,No,Yes,Low,Poor,Mobile Data,4G,Mobile,Moderate
+Government,No,No,Low,Poor,Mobile Data,4G,Mobile,Low
+Non Government,No,Yes,High,Mid,Wifi,4G,Mobile,Moderate
+Non Government,No,Yes,Low,Mid,Wifi,4G,Computer,Moderate
+Non Government,No,Yes,Low,Mid,Mobile Data,4G,Mobile,Moderate
+Government,Yes,No,Low,Rich,Wifi,4G,Mobile,Low
+Government,Yes,Yes,Low,Mid,Mobile Data,4G,Mobile,Moderate
+Non Government,No,Yes,Low,Mid,Mobile Data,3G,Mobile,Moderate
+Non Government,No,Yes,Low,Mid,Mobile Data,3G,Mobile,Moderate
+Non Government,No,Yes,Low,Mid,Mobile Data,4G,Mobile,Moderate
+Non Government,No,Yes,Low,Mid,Mobile Data,3G,Mobile,Moderate
+Non Government,No,Yes,Low,Poor,Mobile Data,3G,Mobile,High
+Non Government,Yes,Yes,Low,Mid,Wifi,4G,Computer,Low
+Non Government,No,Yes,Low,Mid,Mobile Data,4G,Mobile,Moderate
+Non Government,Yes,Yes,High,Poor,Mobile Data,3G,Mobile,Low
+Non Government,No,Yes,Low,Rich,Wifi,4G,Computer,High
+Government,No,Yes,Low,Mid,Mobile Data,3G,Mobile,Low
+Non Government,No,Yes,Low,Mid,Mobile Data,3G,Mobile,Moderate
+Government,No,Yes,Low,Mid,Wifi,3G,Mobile,Moderate
+Non Government,No,Yes,Low,Mid,Wifi,4G,Mobile,Low
+Government,No,Yes,Low,Mid,Wifi,4G,Mobile,Moderate
+Non Government,Yes,Yes,High,Mid,Mobile Data,3G,Mobile,Moderate
+Government,No,Yes,Low,Mid,Wifi,4G,Mobile,Low
+Non Government,Yes,Yes,Low,Mid,Wifi,3G,Mobile,Moderate
+Government,Yes,Yes,Low,Mid,Mobile Data,4G,Mobile,Moderate
+Government,No,No,Low,Mid,Mobile Data,3G,Mobile,Low
+Non Government,No,No,High,Mid,Mobile Data,3G,Mobile,Low
+Government,Yes,Yes,Low,Mid,Mobile Data,3G,Mobile,Moderate
+Non Government,No,Yes,Low,Poor,Mobile Data,4G,Mobile,Moderate
+Government,No,Yes,Low,Mid,Wifi,4G,Mobile,Low
+Non Government,No,Yes,Low,Mid,Wifi,4G,Mobile,Low
+Government,No,No,Low,Mid,Mobile Data,4G,Mobile,Moderate
+Non Government,No,Yes,Low,Mid,Mobile Data,3G,Mobile,Low
+Non Government,Yes,No,Low,Mid,Wifi,4G,Computer,Moderate
+Government,No,Yes,Low,Mid,Wifi,3G,Mobile,Moderate
+Government,Yes,No,High,Mid,Mobile Data,3G,Mobile,Moderate
+Non Government,No,Yes,Low,Mid,Mobile Data,3G,Mobile,Moderate
+Non Government,No,Yes,High,Mid,Wifi,4G,Mobile,Moderate
+Non Government,Yes,Yes,High,Poor,Mobile Data,3G,Computer,Moderate
+Government,No,No,Low,Mid,Mobile Data,3G,Mobile,Low
+Non Government,No,Yes,Low,Mid,Wifi,4G,Mobile,High
+Non Government,No,Yes,Low,Mid,Mobile Data,4G,Mobile,Moderate
+Non Government,No,No,Low,Mid,Wifi,4G,Mobile,Low
+Government,No,No,Low,Poor,Mobile Data,4G,Mobile,Low
+Non Government,No,Yes,Low,Mid,Wifi,4G,Computer,Low
+Government,Yes,Yes,Low,Mid,Mobile Data,3G,Mobile,Low
+Non Government,No,No,Low,Mid,Wifi,4G,Mobile,Low
+Non Government,Yes,Yes,Low,Rich,Wifi,4G,Mobile,Low
+Non Government,Yes,Yes,High,Poor,Wifi,4G,Computer,High
+Government,No,Yes,Low,Mid,Wifi,4G,Mobile,Low
+Government,No,Yes,Low,Mid,Wifi,4G,Mobile,Moderate
+Government,No,Yes,Low,Mid,Wifi,3G,Mobile,Moderate
+Government,Yes,Yes,Low,Mid,Wifi,4G,Computer,Low
+Government,No,Yes,High,Mid,Wifi,4G,Mobile,Moderate
+Non Government,No,Yes,Low,Mid,Mobile Data,4G,Mobile,Low
+Government,No,No,Low,Poor,Mobile Data,4G,Mobile,Low
+Non Government,Yes,Yes,Low,Mid,Wifi,4G,Computer,High
+Non Government,No,Yes,Low,Poor,Mobile Data,4G,Mobile,Moderate
+Non Government,No,Yes,Low,Mid,Mobile Data,4G,Mobile,Moderate
+Government,Yes,Yes,Low,Rich,Wifi,4G,Mobile,High
+Non Government,Yes,Yes,Low,Rich,Wifi,4G,Computer,High
+Non Government,Yes,Yes,High,Poor,Wifi,4G,Computer,High
+Non Government,No,Yes,Low,Mid,Wifi,4G,Tab,Moderate
+Non Government,No,No,Low,Mid,Wifi,4G,Mobile,Low
+Non Government,No,Yes,Low,Mid,Mobile Data,4G,Mobile,Moderate
+Government,Yes,Yes,Low,Mid,Wifi,4G,Computer,Low
+Government,No,No,High,Mid,Mobile Data,3G,Mobile,Low
+Non Government,Yes,Yes,Low,Mid,Wifi,3G,Mobile,Moderate
+Government,No,Yes,Low,Mid,Wifi,3G,Computer,Moderate
+Government,No,Yes,Low,Mid,Wifi,4G,Mobile,Low
+Non Government,No,Yes,Low,Mid,Mobile Data,3G,Mobile,Moderate
+Non Government,No,Yes,Low,Mid,Mobile Data,3G,Mobile,Moderate
+Non Government,No,Yes,Low,Mid,Wifi,4G,Computer,Moderate
+Government,No,Yes,Low,Mid,Mobile Data,3G,Mobile,Low
+Non Government,No,Yes,Low,Mid,Wifi,4G,Mobile,Low
+Government,No,No,Low,Poor,Mobile Data,4G,Mobile,Low
+Non Government,Yes,Yes,High,Mid,Mobile Data,3G,Mobile,Moderate
+Non Government,Yes,Yes,Low,Mid,Wifi,4G,Computer,High
+Non Government,No,Yes,High,Mid,Wifi,4G,Computer,Low
+Non Government,No,Yes,Low,Poor,Mobile Data,3G,Mobile,Low
+Government,No,No,High,Poor,Mobile Data,4G,Mobile,Moderate
+Government,Yes,Yes,Low,Poor,Mobile Data,4G,Computer,Low
+Non Government,No,Yes,Low,Mid,Mobile Data,4G,Mobile,High
+Government,No,Yes,Low,Mid,Mobile Data,4G,Mobile,Low
+Non Government,Yes,No,Low,Mid,Mobile Data,3G,Mobile,Moderate
+Non Government,Yes,Yes,High,Mid,Wifi,4G,Mobile,Low
+Government,No,Yes,Low,Mid,Mobile Data,4G,Mobile,Low
+Non Government,No,Yes,Low,Mid,Wifi,4G,Tab,Moderate
+Non Government,No,Yes,High,Poor,Wifi,4G,Mobile,Low
+Non Government,No,Yes,Low,Mid,Mobile Data,3G,Mobile,Moderate
+Non Government,Yes,Yes,High,Mid,Mobile Data,3G,Mobile,Moderate
+Non Government,No,Yes,Low,Mid,Wifi,4G,Mobile,Moderate
+Government,No,Yes,Low,Mid,Wifi,4G,Mobile,Low
+Non Government,No,Yes,Low,Mid,Mobile Data,4G,Mobile,Moderate
+Non Government,No,Yes,Low,Poor,Mobile Data,3G,Mobile,Low
+Government,No,Yes,Low,Mid,Mobile Data,4G,Mobile,Moderate
+Government,No,Yes,Low,Mid,Mobile Data,4G,Mobile,Low
+Non Government,No,Yes,Low,Mid,Wifi,3G,Mobile,High
+Non Government,Yes,Yes,Low,Rich,Wifi,4G,Mobile,Low
+Non Government,No,Yes,Low,Mid,Mobile Data,3G,Mobile,Moderate
+Non Government,No,Yes,Low,Poor,Mobile Data,4G,Mobile,Moderate
+Non Government,Yes,Yes,Low,Rich,Wifi,4G,Computer,High
+Government,No,No,Low,Mid,Mobile Data,4G,Mobile,Low
+Non Government,No,Yes,Low,Poor,Mobile Data,3G,Mobile,Low
+Government,No,No,High,Poor,Mobile Data,4G,Mobile,Moderate
+Government,No,Yes,Low,Poor,Mobile Data,4G,Mobile,Low
+Non Government,No,Yes,Low,Mid,Mobile Data,4G,Mobile,Moderate
+Non Government,Yes,Yes,Low,Mid,Wifi,4G,Mobile,Low
+Government,No,No,Low,Poor,Mobile Data,3G,Mobile,Low
+Non Government,Yes,Yes,High,Poor,Wifi,3G,Computer,Moderate
+Non Government,No,Yes,Low,Mid,Mobile Data,4G,Mobile,Moderate
+Non Government,No,Yes,Low,Poor,Mobile Data,4G,Mobile,High
+Non Government,Yes,No,High,Mid,Mobile Data,3G,Mobile,High
+Non Government,No,Yes,Low,Poor,Mobile Data,4G,Mobile,High
+Non Government,No,Yes,Low,Rich,Wifi,3G,Mobile,High
+Non Government,Yes,No,Low,Mid,Mobile Data,3G,Computer,Moderate
+Government,No,No,High,Poor,Mobile Data,3G,Mobile,Low
+Government,No,No,Low,Poor,Mobile Data,3G,Mobile,Low
+Government,No,Yes,Low,Mid,Wifi,4G,Mobile,Moderate
+Non Government,Yes,Yes,Low,Mid,Wifi,3G,Mobile,Low
+Non Government,Yes,No,High,Poor,Mobile Data,3G,Mobile,Moderate
+Government,No,Yes,Low,Mid,Mobile Data,3G,Mobile,Low
+Government,No,No,Low,Poor,Mobile Data,3G,Mobile,Low
+Non Government,No,No,Low,Mid,Wifi,4G,Mobile,Moderate
+Non Government,No,No,Low,Mid,Mobile Data,3G,Mobile,Moderate
+Non Government,No,Yes,Low,Mid,Wifi,4G,Mobile,Low
+Non Government,No,Yes,Low,Poor,Mobile Data,4G,Mobile,High
+Non Government,No,Yes,Low,Mid,Mobile Data,4G,Mobile,Moderate
+Non Government,No,Yes,Low,Mid,Mobile Data,3G,Mobile,Low
+Non Government,No,Yes,Low,Mid,Wifi,4G,Mobile,Moderate
+Government,No,Yes,Low,Mid,Wifi,3G,Mobile,Moderate
+Government,No,No,High,Mid,Mobile Data,4G,Mobile,Low
+Non Government,No,Yes,Low,Poor,Mobile Data,3G,Mobile,Low
+Government,No,Yes,High,Mid,Mobile Data,4G,Mobile,Low
+Government,Yes,Yes,Low,Mid,Mobile Data,4G,Mobile,Moderate
+Government,No,No,Low,Mid,Wifi,4G,Mobile,Moderate
+Non Government,No,Yes,Low,Mid,Wifi,4G,Computer,Moderate
+Non Government,Yes,Yes,High,Mid,Mobile Data,3G,Computer,Moderate
+Non Government,Yes,Yes,High,Mid,Wifi,4G,Mobile,Low
+Non Government,No,Yes,Low,Poor,Wifi,3G,Mobile,Moderate
+Non Government,Yes,Yes,High,Poor,Wifi,4G,Computer,High
+Non Government,No,Yes,Low,Mid,Mobile Data,3G,Mobile,Moderate
+Government,No,Yes,Low,Poor,Mobile Data,3G,Mobile,Low
+Non Government,Yes,Yes,Low,Rich,Wifi,4G,Computer,High
+Government,No,Yes,Low,Mid,Mobile Data,4G,Mobile,Low
+Non Government,No,No,Low,Mid,Wifi,4G,Mobile,Low
+Government,No,No,Low,Mid,Mobile Data,3G,Mobile,Low
+Non Government,Yes,Yes,Low,Mid,Wifi,3G,Mobile,Moderate
+Non Government,Yes,Yes,Low,Mid,Wifi,4G,Computer,Moderate
+Non Government,Yes,No,Low,Mid,Wifi,4G,Computer,Moderate
+Non Government,No,No,Low,Mid,Wifi,4G,Mobile,Low
+Non Government,No,Yes,High,Mid,Wifi,4G,Mobile,Low
+Non Government,No,Yes,High,Mid,Wifi,4G,Mobile,Low
+Non Government,Yes,Yes,Low,Mid,Wifi,3G,Computer,Low
+Government,No,No,High,Poor,Mobile Data,4G,Mobile,Low
+Government,No,No,High,Poor,Mobile Data,2G,Mobile,Low
+Non Government,No,Yes,Low,Rich,Wifi,4G,Mobile,High
+Government,No,No,Low,Mid,Mobile Data,4G,Mobile,Moderate
+Non Government,No,No,Low,Mid,Wifi,4G,Mobile,Low
+Non Government,No,Yes,Low,Mid,Mobile Data,4G,Mobile,Moderate
+Non Government,No,Yes,Low,Mid,Wifi,4G,Mobile,Low
+Non Government,No,Yes,Low,Mid,Wifi,4G,Tab,Moderate
+Non Government,No,Yes,High,Mid,Wifi,4G,Mobile,Low
+Non Government,No,Yes,Low,Mid,Mobile Data,4G,Mobile,Moderate
+Government,No,No,High,Poor,Mobile Data,2G,Mobile,Low
+Non Government,No,No,Low,Mid,Mobile Data,3G,Mobile,Moderate
+Government,No,Yes,Low,Mid,Mobile Data,4G,Mobile,Low
+Non Government,Yes,Yes,Low,Rich,Wifi,4G,Computer,High
+Non Government,Yes,Yes,High,Mid,Wifi,4G,Mobile,Low
+Government,No,No,Low,Mid,Mobile Data,4G,Mobile,Moderate
+Government,No,Yes,Low,Mid,Mobile Data,3G,Mobile,Low
+Non Government,No,Yes,Low,Poor,Mobile Data,3G,Mobile,Low
+Government,No,No,Low,Mid,Mobile Data,3G,Mobile,Low
+Non Government,Yes,Yes,Low,Mid,Wifi,3G,Mobile,Moderate
+Non Government,No,Yes,Low,Mid,Mobile Data,4G,Mobile,Low
+Non Government,No,Yes,Low,Mid,Wifi,4G,Tab,Moderate
+Non Government,Yes,Yes,High,Mid,Mobile Data,3G,Mobile,Moderate
+Non Government,Yes,Yes,Low,Mid,Wifi,4G,Computer,Moderate
+Government,No,Yes,Low,Mid,Wifi,4G,Mobile,Moderate
+Non Government,No,Yes,Low,Poor,Mobile Data,3G,Mobile,Moderate
+Non Government,No,Yes,Low,Mid,Wifi,4G,Mobile,Moderate
+Government,No,No,Low,Mid,Mobile Data,4G,Mobile,Low
+Government,No,Yes,Low,Mid,Mobile Data,4G,Mobile,Low
+Non Government,No,Yes,Low,Poor,Mobile Data,3G,Mobile,Moderate
+Government,No,Yes,Low,Mid,Wifi,4G,Mobile,Moderate
+Government,No,Yes,Low,Mid,Wifi,3G,Computer,Moderate
+Non Government,No,Yes,Low,Mid,Mobile Data,4G,Mobile,Moderate
+Non Government,No,Yes,Low,Poor,Mobile Data,3G,Mobile,Low
+Non Government,No,Yes,Low,Mid,Wifi,4G,Mobile,Low
+Non Government,No,Yes,Low,Mid,Mobile Data,4G,Mobile,Moderate
+Government,No,Yes,Low,Mid,Wifi,4G,Mobile,Moderate
+Non Government,No,Yes,Low,Mid,Mobile Data,4G,Mobile,Moderate
+Non Government,No,Yes,Low,Mid,Mobile Data,4G,Mobile,Moderate
+Non Government,No,Yes,Low,Mid,Wifi,4G,Mobile,Moderate
+Non Government,No,Yes,Low,Mid,Mobile Data,4G,Mobile,Moderate
+Non Government,No,Yes,Low,Mid,Mobile Data,4G,Mobile,Moderate
+Non Government,No,Yes,Low,Poor,Mobile Data,3G,Mobile,High
+Government,No,Yes,Low,Mid,Wifi,4G,Mobile,Moderate
+Non Government,No,Yes,Low,Mid,Wifi,4G,Mobile,Low
+Non Government,Yes,Yes,High,Poor,Mobile Data,3G,Computer,Moderate
+Non Government,Yes,Yes,High,Mid,Mobile Data,3G,Mobile,Moderate
+Government,No,No,Low,Mid,Mobile Data,4G,Mobile,Low
+Non Government,No,Yes,Low,Mid,Wifi,4G,Mobile,Moderate
+Non Government,No,Yes,Low,Mid,Mobile Data,4G,Mobile,Moderate
+Non Government,Yes,No,Low,Mid,Mobile Data,3G,Computer,Moderate
+Non Government,Yes,Yes,Low,Mid,Mobile Data,3G,Mobile,Moderate
+Government,No,No,Low,Poor,Mobile Data,4G,Mobile,Low
+Non Government,No,Yes,Low,Mid,Wifi,2G,Mobile,Moderate
+Government,No,No,High,Mid,Mobile Data,3G,Mobile,Low
+Non Government,No,Yes,Low,Mid,Mobile Data,4G,Mobile,Moderate
+Non Government,No,Yes,Low,Rich,Wifi,4G,Mobile,High
+Non Government,No,Yes,Low,Mid,Wifi,4G,Mobile,Moderate
+Non Government,No,Yes,Low,Mid,Mobile Data,4G,Mobile,Moderate
+Government,No,No,Low,Poor,Mobile Data,3G,Mobile,Low
+Government,Yes,No,High,Mid,Mobile Data,3G,Mobile,Low
+Non Government,Yes,Yes,Low,Mid,Wifi,3G,Computer,Moderate
+Government,No,Yes,Low,Mid,Wifi,4G,Mobile,Low
+Non Government,No,Yes,Low,Mid,Mobile Data,4G,Mobile,Moderate
+Government,No,No,High,Poor,Mobile Data,3G,Mobile,Moderate
+Non Government,No,Yes,Low,Mid,Mobile Data,4G,Mobile,Moderate
+Non Government,Yes,No,High,Mid,Mobile Data,3G,Mobile,Moderate
+Non Government,No,Yes,Low,Rich,Mobile Data,3G,Mobile,Moderate
+Non Government,Yes,Yes,High,Poor,Wifi,4G,Computer,High
+Non Government,No,Yes,Low,Mid,Mobile Data,4G,Mobile,Low
+Non Government,No,No,High,Mid,Mobile Data,3G,Mobile,Low
+Government,No,Yes,Low,Mid,Mobile Data,4G,Mobile,Low
+Non Government,No,Yes,Low,Mid,Mobile Data,3G,Mobile,Low
+Non Government,Yes,Yes,Low,Mid,Wifi,4G,Mobile,Low
+Non Government,Yes,Yes,Low,Mid,Wifi,3G,Mobile,Moderate
+Government,No,Yes,Low,Mid,Wifi,4G,Mobile,Moderate
+Government,Yes,Yes,Low,Mid,Mobile Data,3G,Computer,Low
+Government,Yes,Yes,Low,Mid,Wifi,4G,Computer,Low
+Government,No,No,High,Poor,Mobile Data,2G,Mobile,Low
+Government,Yes,Yes,Low,Mid,Mobile Data,4G,Mobile,Moderate
+Non Government,Yes,Yes,Low,Mid,Wifi,4G,Computer,High
+Non Government,Yes,No,High,Poor,Wifi,2G,Tab,Low
+Non Government,No,Yes,Low,Poor,Mobile Data,3G,Mobile,Low
+Non Government,No,Yes,Low,Mid,Wifi,4G,Computer,Moderate
+Non Government,Yes,Yes,High,Poor,Wifi,3G,Mobile,Low
+Non Government,No,Yes,Low,Mid,Wifi,4G,Mobile,Moderate
+Government,No,Yes,Low,Rich,Mobile Data,4G,Mobile,Moderate
+Government,No,Yes,Low,Mid,Mobile Data,4G,Mobile,Low
+Government,Yes,Yes,Low,Rich,Wifi,4G,Computer,High
+Non Government,Yes,Yes,Low,Mid,Wifi,3G,Computer,Low
+Non Government,No,Yes,Low,Mid,Mobile Data,4G,Mobile,Moderate
+Government,Yes,No,Low,Rich,Wifi,4G,Mobile,Low
+Non Government,No,Yes,Low,Mid,Wifi,4G,Mobile,Moderate
+Government,No,No,High,Poor,Mobile Data,4G,Mobile,Moderate
+Non Government,No,Yes,Low,Poor,Mobile Data,4G,Mobile,Moderate
+Government,No,Yes,Low,Mid,Wifi,4G,Mobile,Low
+Government,No,Yes,Low,Rich,Mobile Data,4G,Mobile,Low
+Government,No,Yes,Low,Poor,Mobile Data,4G,Mobile,Low
+Non Government,No,Yes,Low,Rich,Wifi,4G,Tab,Moderate
+Government,No,No,High,Mid,Mobile Data,3G,Mobile,Low
+Government,Yes,No,High,Mid,Mobile Data,3G,Mobile,Moderate
+Government,No,No,High,Poor,Mobile Data,4G,Mobile,Moderate
+Government,No,Yes,Low,Mid,Wifi,4G,Mobile,High
+Government,No,No,Low,Mid,Mobile Data,4G,Mobile,Low
+Non Government,No,Yes,Low,Mid,Mobile Data,3G,Mobile,Moderate
+Non Government,No,Yes,Low,Mid,Wifi,4G,Mobile,Low
+Non Government,No,Yes,Low,Mid,Mobile Data,4G,Mobile,Low
+Non Government,No,Yes,Low,Mid,Mobile Data,4G,Mobile,Moderate
+Non Government,No,Yes,Low,Mid,Wifi,4G,Computer,Moderate
+Government,No,No,High,Mid,Wifi,4G,Mobile,Low
+Non Government,No,Yes,Low,Poor,Mobile Data,3G,Mobile,Low
+Non Government,No,Yes,Low,Poor,Mobile Data,3G,Mobile,High
+Non Government,No,Yes,Low,Mid,Mobile Data,4G,Mobile,Moderate
+Non Government,No,Yes,Low,Poor,Mobile Data,3G,Mobile,Low
+Government,No,Yes,Low,Poor,Mobile Data,4G,Mobile,Low
+Non Government,No,Yes,Low,Rich,Wifi,4G,Computer,High
+Non Government,No,Yes,Low,Mid,Mobile Data,4G,Mobile,High
+Non Government,Yes,No,Low,Mid,Mobile Data,3G,Mobile,Moderate
+Non Government,Yes,Yes,High,Mid,Mobile Data,3G,Mobile,Moderate
+Non Government,Yes,Yes,Low,Mid,Mobile Data,4G,Mobile,Moderate
+Non Government,No,Yes,Low,Poor,Mobile Data,4G,Mobile,Low
+Non Government,No,Yes,High,Mid,Wifi,4G,Computer,Low
+Government,No,Yes,Low,Mid,Wifi,4G,Mobile,Low
+Government,No,Yes,Low,Mid,Wifi,4G,Mobile,High
+Non Government,No,Yes,Low,Rich,Wifi,4G,Mobile,High
+Government,No,Yes,Low,Mid,Wifi,4G,Mobile,Moderate
+Non Government,No,Yes,Low,Poor,Mobile Data,3G,Mobile,Moderate
+Non Government,No,No,High,Mid,Wifi,4G,Mobile,Moderate
+Non Government,No,Yes,Low,Mid,Mobile Data,4G,Mobile,Moderate
+Non Government,Yes,Yes,Low,Mid,Mobile Data,3G,Mobile,Low
+Government,No,Yes,Low,Mid,Wifi,3G,Mobile,Low
+Government,No,Yes,Low,Mid,Mobile Data,4G,Mobile,Moderate
+Government,No,Yes,Low,Mid,Wifi,4G,Mobile,Low
+Non Government,No,Yes,Low,Mid,Mobile Data,4G,Mobile,Moderate
+Non Government,No,Yes,Low,Poor,Mobile Data,4G,Mobile,Moderate
+Non Government,No,Yes,Low,Poor,Mobile Data,3G,Mobile,Moderate
+Non Government,No,Yes,Low,Rich,Mobile Data,4G,Mobile,High
+Non Government,No,Yes,Low,Mid,Mobile Data,4G,Mobile,Moderate
+Government,No,No,Low,Mid,Wifi,4G,Mobile,Low
+Non Government,No,Yes,Low,Rich,Wifi,4G,Mobile,High
+Non Government,No,Yes,Low,Mid,Wifi,4G,Mobile,Low
+Non Government,No,Yes,Low,Poor,Mobile Data,3G,Mobile,Moderate
+Government,No,No,Low,Poor,Mobile Data,4G,Mobile,Low
+Government,Yes,No,Low,Poor,Mobile Data,4G,Mobile,Moderate
+Non Government,No,Yes,Low,Poor,Mobile Data,4G,Mobile,High
+Government,No,Yes,Low,Mid,Wifi,4G,Mobile,Moderate
+Government,No,No,Low,Mid,Mobile Data,3G,Mobile,Low
+Government,Yes,No,Low,Poor,Mobile Data,4G,Mobile,Moderate
+Government,Yes,No,Low,Mid,Mobile Data,4G,Mobile,Low
+Government,No,Yes,Low,Mid,Mobile Data,4G,Mobile,Low
+Non Government,Yes,Yes,High,Mid,Wifi,4G,Computer,Low
+Non Government,No,Yes,Low,Rich,Mobile Data,3G,Mobile,Moderate
+Government,No,Yes,Low,Mid,Wifi,4G,Mobile,High
+Non Government,No,Yes,Low,Mid,Wifi,4G,Mobile,Low
+Non Government,Yes,Yes,Low,Mid,Mobile Data,3G,Mobile,Low
+Government,No,Yes,Low,Mid,Wifi,4G,Mobile,Low
+Non Government,No,Yes,Low,Mid,Wifi,4G,Mobile,Moderate
+Non Government,No,Yes,Low,Poor,Mobile Data,4G,Mobile,Moderate
+Non Government,No,Yes,Low,Mid,Mobile Data,3G,Mobile,Low
+Non Government,No,Yes,Low,Mid,Mobile Data,3G,Mobile,Moderate
+Non Government,No,No,Low,Mid,Mobile Data,4G,Mobile,Moderate
+Non Government,Yes,No,Low,Mid,Mobile Data,3G,Mobile,Moderate
+Non Government,No,Yes,Low,Mid,Wifi,4G,Mobile,Low
+Government,No,Yes,Low,Rich,Wifi,4G,Mobile,Moderate
+Government,Yes,Yes,Low,Mid,Wifi,4G,Computer,Low
+Non Government,No,Yes,Low,Rich,Mobile Data,3G,Mobile,Moderate
+Non Government,No,No,Low,Mid,Wifi,4G,Mobile,Low
+Government,No,No,Low,Mid,Wifi,4G,Mobile,Low
+Non Government,No,Yes,Low,Mid,Wifi,4G,Mobile,Low
+Non Government,Yes,Yes,Low,Mid,Wifi,4G,Computer,Moderate
+Government,No,Yes,Low,Mid,Wifi,4G,Mobile,Low
+Government,No,No,Low,Mid,Mobile Data,4G,Mobile,Moderate
+Non Government,Yes,No,Low,Mid,Mobile Data,3G,Computer,Moderate
+Non Government,No,Yes,Low,Poor,Mobile Data,4G,Mobile,Low
+Non Government,No,Yes,Low,Poor,Mobile Data,4G,Mobile,Moderate
+Non Government,Yes,Yes,Low,Mid,Mobile Data,4G,Mobile,Moderate
+Non Government,Yes,Yes,Low,Mid,Wifi,4G,Computer,Low
+Non Government,No,Yes,Low,Poor,Mobile Data,3G,Mobile,High
+Non Government,No,No,Low,Mid,Wifi,4G,Mobile,Moderate
+Non Government,No,Yes,Low,Mid,Wifi,4G,Mobile,Moderate
+Government,No,No,Low,Poor,Mobile Data,3G,Mobile,Low
+Non Government,No,No,Low,Mid,Wifi,4G,Mobile,Low
+Government,No,Yes,Low,Mid,Wifi,4G,Mobile,Moderate
+Non Government,Yes,Yes,High,Poor,Wifi,3G,Mobile,Low
+Government,No,Yes,Low,Mid,Wifi,4G,Mobile,Moderate
+Non Government,Yes,Yes,High,Poor,Wifi,4G,Computer,High
+Non Government,Yes,Yes,Low,Mid,Wifi,4G,Computer,Moderate
+Non Government,Yes,Yes,Low,Mid,Mobile Data,3G,Mobile,Moderate
+Non Government,Yes,Yes,Low,Mid,Wifi,4G,Computer,Moderate
+Non Government,No,Yes,Low,Mid,Wifi,4G,Mobile,Moderate
+Non Government,Yes,Yes,Low,Mid,Mobile Data,3G,Mobile,Low
+Non Government,No,Yes,Low,Mid,Mobile Data,4G,Mobile,Moderate
+Government,No,No,Low,Mid,Mobile Data,3G,Mobile,Low
+Non Government,Yes,Yes,Low,Mid,Wifi,3G,Computer,Low
+Non Government,No,Yes,Low,Mid,Mobile Data,4G,Mobile,Moderate
+Non Government,No,Yes,Low,Mid,Wifi,4G,Mobile,Low
+Non Government,No,Yes,Low,Mid,Mobile Data,4G,Mobile,Moderate
+Government,No,No,Low,Mid,Mobile Data,4G,Mobile,Low
+Government,No,No,Low,Mid,Mobile Data,3G,Mobile,Low
+Government,No,Yes,Low,Rich,Mobile Data,4G,Mobile,Low
+Non Government,No,Yes,Low,Poor,Mobile Data,3G,Mobile,Low
+Non Government,Yes,No,High,Mid,Wifi,4G,Computer,Moderate
+Non Government,No,Yes,Low,Mid,Wifi,4G,Mobile,Moderate
+Non Government,No,Yes,Low,Poor,Mobile Data,4G,Mobile,Moderate
+Non Government,No,Yes,High,Mid,Mobile Data,3G,Mobile,Moderate
+Government,Yes,Yes,Low,Mid,Mobile Data,4G,Mobile,Moderate
+Government,No,Yes,Low,Mid,Wifi,4G,Mobile,Low
+Government,Yes,No,Low,Poor,Mobile Data,4G,Mobile,Low
+Government,Yes,Yes,Low,Mid,Mobile Data,4G,Mobile,Low
+Non Government,No,Yes,Low,Poor,Mobile Data,4G,Mobile,Moderate
+Government,No,Yes,Low,Mid,Wifi,4G,Mobile,Low
+Non Government,No,No,High,Mid,Mobile Data,3G,Mobile,Low
+Non Government,No,Yes,Low,Rich,Wifi,3G,Mobile,High
+Government,No,Yes,Low,Mid,Mobile Data,4G,Mobile,Low
+Non Government,No,Yes,Low,Mid,Mobile Data,3G,Mobile,Moderate
+Government,Yes,Yes,Low,Mid,Mobile Data,3G,Mobile,Moderate
+Non Government,No,Yes,Low,Mid,Mobile Data,4G,Mobile,Moderate
+Government,No,No,High,Mid,Mobile Data,4G,Mobile,Moderate
+Non Government,Yes,No,High,Poor,Mobile Data,3G,Mobile,Moderate
+Non Government,No,Yes,Low,Poor,Mobile Data,3G,Mobile,Low
+Non Government,No,Yes,High,Mid,Wifi,4G,Mobile,Low
+Government,No,Yes,Low,Mid,Wifi,4G,Mobile,Moderate
+Non Government,Yes,No,Low,Mid,Mobile Data,3G,Mobile,Moderate
+Non Government,Yes,Yes,Low,Mid,Mobile Data,3G,Mobile,Moderate
+Non Government,No,Yes,Low,Poor,Mobile Data,3G,Mobile,Low
+Non Government,No,Yes,Low,Poor,Mobile Data,4G,Mobile,Moderate
+Non Government,Yes,Yes,Low,Mid,Wifi,3G,Mobile,Moderate
+Non Government,Yes,No,High,Poor,Mobile Data,3G,Mobile,Moderate
+Non Government,No,Yes,Low,Mid,Mobile Data,4G,Mobile,Moderate
+Non Government,Yes,Yes,High,Poor,Wifi,4G,Computer,High
+Non Government,No,Yes,Low,Poor,Mobile Data,4G,Mobile,Moderate
+Non Government,No,Yes,Low,Rich,Wifi,4G,Mobile,High
+Non Government,No,Yes,Low,Mid,Mobile Data,4G,Mobile,Low
+Non Government,Yes,Yes,Low,Mid,Wifi,4G,Computer,Moderate
+Non Government,No,Yes,Low,Mid,Mobile Data,4G,Mobile,Moderate
+Government,No,No,Low,Poor,Mobile Data,4G,Mobile,Low
+Government,Yes,Yes,Low,Mid,Wifi,4G,Tab,Moderate
+Non Government,Yes,Yes,Low,Poor,Mobile Data,4G,Mobile,Moderate
+Non Government,Yes,Yes,Low,Mid,Wifi,4G,Mobile,Low
+Non Government,Yes,Yes,Low,Mid,Mobile Data,3G,Mobile,Low
+Government,No,No,High,Mid,Mobile Data,3G,Mobile,Moderate
+Government,No,Yes,Low,Mid,Wifi,4G,Mobile,Low
+Government,No,Yes,Low,Mid,Wifi,3G,Mobile,Moderate
+Government,No,Yes,Low,Mid,Wifi,4G,Mobile,Moderate
+Non Government,No,Yes,Low,Poor,Mobile Data,4G,Mobile,High
+Non Government,Yes,No,High,Poor,Mobile Data,3G,Mobile,Moderate
+Non Government,No,Yes,Low,Mid,Mobile Data,4G,Mobile,Moderate
+Government,No,No,Low,Mid,Mobile Data,4G,Mobile,Moderate
+Non Government,No,Yes,High,Mid,Wifi,4G,Mobile,Moderate
+Government,No,No,Low,Mid,Mobile Data,3G,Mobile,Low
+Non Government,No,Yes,Low,Mid,Wifi,2G,Mobile,Moderate
+Non Government,No,Yes,Low,Mid,Wifi,4G,Mobile,Low
+Government,No,Yes,Low,Mid,Wifi,3G,Computer,Moderate
+Government,Yes,Yes,Low,Mid,Wifi,3G,Mobile,Low
+Non Government,No,Yes,Low,Mid,Mobile Data,4G,Mobile,Moderate
+Government,No,No,Low,Mid,Mobile Data,4G,Mobile,Low
+Government,No,No,Low,Mid,Wifi,4G,Mobile,Low
+Government,No,No,Low,Mid,Wifi,4G,Mobile,Low
+Non Government,Yes,Yes,Low,Rich,Wifi,4G,Computer,Moderate
+Non Government,Yes,Yes,Low,Mid,Mobile Data,3G,Mobile,Low
+Non Government,Yes,Yes,Low,Mid,Wifi,4G,Computer,Moderate
+Non Government,No,Yes,Low,Mid,Mobile Data,3G,Mobile,Moderate
+Non Government,No,Yes,Low,Mid,Wifi,4G,Mobile,Low
+Non Government,No,Yes,Low,Mid,Mobile Data,4G,Mobile,Moderate
+Government,Yes,Yes,Low,Mid,Wifi,4G,Mobile,Moderate
+Non Government,No,Yes,Low,Mid,Wifi,4G,Mobile,High
+Non Government,No,Yes,Low,Mid,Mobile Data,4G,Mobile,Moderate
+Non Government,No,Yes,Low,Mid,Wifi,4G,Computer,Moderate
+Non Government,Yes,No,High,Poor,Wifi,2G,Tab,Low
+Non Government,No,Yes,High,Mid,Wifi,4G,Mobile,Low
+Non Government,Yes,Yes,High,Poor,Wifi,3G,Mobile,Low
+Non Government,No,Yes,Low,Mid,Wifi,4G,Mobile,Moderate
+Non Government,No,Yes,Low,Mid,Mobile Data,3G,Mobile,Moderate
+Government,No,Yes,Low,Mid,Wifi,4G,Mobile,Low
+Non Government,No,Yes,Low,Poor,Mobile Data,3G,Mobile,Low
+Non Government,No,Yes,Low,Mid,Wifi,4G,Mobile,Moderate
+Non Government,Yes,No,Low,Mid,Wifi,4G,Computer,Moderate
+Non Government,No,Yes,Low,Mid,Mobile Data,3G,Mobile,Moderate
+Non Government,No,Yes,Low,Mid,Mobile Data,4G,Mobile,Low
+Non Government,Yes,Yes,Low,Mid,Wifi,4G,Computer,Moderate
+Non Government,No,No,Low,Poor,Mobile Data,4G,Mobile,Low
+Non Government,Yes,Yes,Low,Mid,Wifi,4G,Computer,Moderate
+Non Government,No,Yes,High,Mid,Wifi,4G,Mobile,Low
+Government,No,No,High,Mid,Mobile Data,3G,Mobile,Moderate
+Non Government,No,Yes,Low,Rich,Wifi,4G,Mobile,High
+Non Government,No,Yes,Low,Mid,Wifi,4G,Computer,Moderate
+Government,No,No,Low,Poor,Mobile Data,4G,Mobile,Low
+Non Government,No,Yes,Low,Mid,Mobile Data,4G,Mobile,Moderate
+Government,No,No,Low,Mid,Mobile Data,3G,Mobile,Low
+Non Government,No,No,High,Mid,Mobile Data,3G,Mobile,Low
+Government,No,No,High,Mid,Mobile Data,4G,Mobile,Low
+Non Government,No,No,Low,Mid,Mobile Data,3G,Mobile,Moderate
+Non Government,Yes,Yes,High,Mid,Mobile Data,3G,Mobile,Moderate
+Government,No,Yes,Low,Mid,Mobile Data,4G,Mobile,Moderate
+Non Government,No,Yes,Low,Mid,Mobile Data,4G,Mobile,Moderate
+Non Government,No,Yes,Low,Mid,Wifi,4G,Computer,Moderate
+Non Government,Yes,Yes,Low,Mid,Wifi,4G,Computer,Moderate
+Non Government,No,Yes,Low,Mid,Wifi,4G,Mobile,Moderate
+Non Government,No,Yes,High,Mid,Wifi,4G,Computer,Low
+Non Government,No,Yes,Low,Mid,Mobile Data,4G,Mobile,Moderate
+Government,No,Yes,Low,Mid,Mobile Data,3G,Mobile,Low
+Government,No,No,Low,Mid,Mobile Data,3G,Mobile,Low
+Government,No,Yes,Low,Rich,Wifi,4G,Mobile,Moderate
+Non Government,No,Yes,Low,Mid,Mobile Data,4G,Mobile,Moderate
+Non Government,No,Yes,Low,Mid,Wifi,4G,Tab,Moderate
+Non Government,Yes,Yes,Low,Mid,Wifi,4G,Computer,Moderate
+Government,Yes,Yes,Low,Rich,Wifi,4G,Computer,High
+Non Government,No,Yes,Low,Mid,Wifi,4G,Mobile,Moderate
+Non Government,No,Yes,High,Mid,Wifi,4G,Mobile,Moderate
+Government,Yes,No,High,Mid,Mobile Data,3G,Mobile,Low
+Non Government,No,Yes,Low,Rich,Mobile Data,3G,Mobile,High
+Government,No,No,Low,Mid,Mobile Data,3G,Mobile,Low
+Government,No,Yes,Low,Rich,Mobile Data,4G,Mobile,Moderate
+Non Government,No,Yes,Low,Poor,Mobile Data,3G,Mobile,Low
+Government,No,No,Low,Mid,Mobile Data,4G,Mobile,Low
+Government,No,No,Low,Poor,Mobile Data,3G,Mobile,Low
+Non Government,No,Yes,Low,Poor,Mobile Data,4G,Mobile,Moderate
+Non Government,No,Yes,Low,Mid,Mobile Data,3G,Mobile,Moderate
+Non Government,No,Yes,Low,Mid,Mobile Data,4G,Mobile,High
+Non Government,No,Yes,Low,Mid,Wifi,4G,Tab,Moderate
+Non Government,Yes,Yes,Low,Mid,Mobile Data,3G,Mobile,Low
+Non Government,Yes,Yes,Low,Mid,Mobile Data,3G,Mobile,Moderate
+Non Government,Yes,Yes,Low,Mid,Wifi,4G,Computer,Moderate
+Non Government,Yes,No,High,Mid,Wifi,4G,Computer,Moderate
+Non Government,Yes,No,Low,Mid,Wifi,4G,Computer,Moderate
+Government,No,Yes,Low,Rich,Mobile Data,4G,Mobile,Moderate
+Government,No,Yes,High,Mid,Mobile Data,4G,Mobile,Low
+Non Government,No,No,Low,Mid,Mobile Data,3G,Mobile,Low
+Non Government,Yes,Yes,Low,Mid,Mobile Data,3G,Mobile,Moderate
+Non Government,No,Yes,Low,Mid,Mobile Data,4G,Mobile,Moderate
+Non Government,Yes,Yes,Low,Mid,Wifi,3G,Computer,Low
+Non Government,No,Yes,Low,Mid,Mobile Data,3G,Mobile,Moderate
+Non Government,No,Yes,Low,Poor,Mobile Data,4G,Mobile,Moderate
+Government,No,Yes,Low,Mid,Wifi,4G,Mobile,Moderate
+Government,No,No,Low,Mid,Mobile Data,4G,Mobile,Moderate
+Non Government,No,Yes,Low,Poor,Mobile Data,3G,Mobile,Low
+Non Government,No,Yes,Low,Mid,Wifi,4G,Mobile,Moderate
+Non Government,No,Yes,Low,Mid,Wifi,4G,Mobile,High
+Non Government,No,Yes,Low,Poor,Mobile Data,3G,Mobile,Low
+Government,No,Yes,Low,Mid,Wifi,3G,Computer,Moderate
+Non Government,No,Yes,Low,Mid,Mobile Data,4G,Mobile,High
+Non Government,No,Yes,Low,Mid,Mobile Data,4G,Mobile,Moderate
+Non Government,No,Yes,Low,Mid,Wifi,4G,Tab,Moderate
+Non Government,No,No,Low,Mid,Wifi,4G,Mobile,Low
+Non Government,No,Yes,Low,Poor,Mobile Data,3G,Mobile,High
+Non Government,Yes,Yes,Low,Mid,Mobile Data,3G,Mobile,Moderate
+Non Government,No,Yes,Low,Mid,Mobile Data,3G,Mobile,Moderate
+Government,No,No,High,Mid,Mobile Data,3G,Mobile,Low
+Non Government,No,Yes,Low,Mid,Mobile Data,3G,Mobile,Moderate
+Non Government,No,Yes,Low,Poor,Mobile Data,3G,Mobile,Low
+Government,No,Yes,Low,Mid,Mobile Data,4G,Mobile,Low
+Government,No,No,High,Mid,Mobile Data,4G,Mobile,Low
+Government,No,Yes,Low,Mid,Wifi,3G,Mobile,Low
+Government,No,No,High,Mid,Mobile Data,3G,Mobile,Moderate
+Government,No,Yes,Low,Mid,Wifi,4G,Mobile,Moderate
+Non Government,No,Yes,High,Mid,Wifi,4G,Mobile,Low
+Non Government,No,Yes,Low,Mid,Mobile Data,4G,Mobile,Low
+Non Government,No,No,Low,Mid,Wifi,4G,Mobile,Moderate
+Government,No,No,Low,Poor,Mobile Data,4G,Mobile,Low
+Government,No,No,Low,Mid,Mobile Data,3G,Mobile,Low
+Non Government,No,No,Low,Mid,Wifi,4G,Mobile,Low
+Non Government,No,Yes,Low,Poor,Mobile Data,4G,Mobile,Moderate
+Non Government,No,Yes,Low,Mid,Mobile Data,3G,Mobile,Low
+Non Government,Yes,No,Low,Mid,Mobile Data,3G,Mobile,Moderate
+Non Government,No,Yes,Low,Poor,Mobile Data,3G,Mobile,Moderate
+Non Government,No,Yes,Low,Mid,Mobile Data,3G,Mobile,Moderate
+Government,No,Yes,Low,Mid,Wifi,4G,Mobile,Moderate
+Non Government,No,Yes,Low,Mid,Wifi,4G,Tab,Moderate
+Government,No,Yes,Low,Mid,Wifi,4G,Mobile,Moderate
+Non Government,No,Yes,Low,Poor,Mobile Data,3G,Mobile,Low
+Government,No,Yes,Low,Mid,Wifi,4G,Mobile,Moderate
+Non Government,Yes,Yes,Low,Mid,Wifi,4G,Mobile,Moderate
+Non Government,No,Yes,Low,Mid,Mobile Data,3G,Mobile,Moderate
+Non Government,No,No,Low,Mid,Wifi,4G,Mobile,Low
+Non Government,No,Yes,Low,Mid,Mobile Data,3G,Mobile,Low
+Non Government,No,Yes,Low,Mid,Mobile Data,4G,Mobile,Moderate
+Non Government,No,Yes,Low,Mid,Wifi,4G,Tab,Moderate
+Government,No,Yes,Low,Rich,Wifi,4G,Mobile,Low
+Non Government,No,Yes,Low,Mid,Mobile Data,3G,Mobile,Low
+Non Government,No,Yes,Low,Poor,Mobile Data,4G,Mobile,Moderate
+Non Government,Yes,Yes,Low,Mid,Wifi,4G,Computer,Moderate
+Government,No,Yes,Low,Rich,Mobile Data,4G,Mobile,Moderate
+Non Government,No,Yes,Low,Poor,Mobile Data,4G,Mobile,Moderate
+Non Government,Yes,Yes,High,Mid,Mobile Data,3G,Mobile,Moderate
+Non Government,Yes,Yes,Low,Mid,Wifi,4G,Computer,Moderate
+Non Government,Yes,No,High,Mid,Mobile Data,3G,Mobile,Moderate
+Government,No,Yes,Low,Mid,Wifi,3G,Computer,Moderate
+Non Government,No,Yes,Low,Mid,Wifi,4G,Computer,Moderate
+Non Government,No,Yes,Low,Poor,Wifi,3G,Mobile,Moderate
+Non Government,No,Yes,Low,Mid,Mobile Data,3G,Mobile,Moderate
+Non Government,No,Yes,Low,Poor,Mobile Data,3G,Mobile,Low
+Non Government,Yes,No,High,Mid,Wifi,4G,Computer,Moderate
+Non Government,Yes,Yes,High,Mid,Wifi,4G,Mobile,Low
+Government,No,Yes,Low,Rich,Mobile Data,4G,Mobile,Moderate
+Non Government,Yes,Yes,Low,Mid,Wifi,4G,Computer,Low
+Non Government,Yes,Yes,Low,Mid,Wifi,4G,Computer,Moderate
+Non Government,No,Yes,Low,Mid,Wifi,4G,Computer,Moderate
+Non Government,No,No,Low,Mid,Mobile Data,4G,Mobile,Moderate
+Non Government,No,Yes,Low,Mid,Wifi,4G,Mobile,Low
+Non Government,No,Yes,Low,Mid,Mobile Data,3G,Mobile,Moderate
+Non Government,No,Yes,Low,Mid,Mobile Data,4G,Mobile,High
+Non Government,No,Yes,Low,Rich,Wifi,4G,Mobile,High
+Government,No,Yes,Low,Mid,Wifi,3G,Mobile,Low
+Non Government,No,Yes,Low,Poor,Mobile Data,4G,Mobile,Moderate
+Non Government,No,Yes,Low,Rich,Wifi,4G,Mobile,Moderate
+Non Government,No,Yes,Low,Mid,Wifi,4G,Mobile,Low
+Non Government,No,Yes,Low,Mid,Mobile Data,4G,Mobile,Moderate
+Government,No,Yes,Low,Mid,Wifi,4G,Computer,Low
+Government,Yes,Yes,Low,Mid,Mobile Data,4G,Mobile,Moderate
+Non Government,No,Yes,Low,Poor,Mobile Data,4G,Mobile,Moderate
+Non Government,No,Yes,Low,Poor,Mobile Data,3G,Mobile,Low
+Government,Yes,Yes,Low,Mid,Mobile Data,4G,Mobile,Moderate
+Non Government,No,Yes,Low,Mid,Mobile Data,4G,Mobile,Moderate
+Government,Yes,No,Low,Poor,Mobile Data,4G,Mobile,Moderate
+Non Government,Yes,Yes,High,Poor,Wifi,4G,Computer,High
+Non Government,No,Yes,Low,Mid,Mobile Data,4G,Mobile,Moderate
+Non Government,No,Yes,Low,Mid,Mobile Data,3G,Mobile,Moderate
+Non Government,No,Yes,Low,Mid,Mobile Data,3G,Mobile,Moderate
+Non Government,Yes,Yes,Low,Mid,Wifi,3G,Computer,Moderate
+Government,Yes,No,Low,Mid,Mobile Data,4G,Mobile,Low
+Non Government,No,Yes,Low,Mid,Wifi,3G,Mobile,High
+Government,Yes,Yes,Low,Mid,Mobile Data,4G,Mobile,Moderate
+Government,Yes,Yes,Low,Mid,Mobile Data,3G,Mobile,Low
+Non Government,No,Yes,Low,Poor,Mobile Data,4G,Mobile,Moderate
+Non Government,No,Yes,Low,Mid,Mobile Data,3G,Mobile,Low
+Government,No,Yes,Low,Rich,Wifi,4G,Mobile,Moderate
+Non Government,Yes,Yes,Low,Mid,Mobile Data,3G,Mobile,Moderate
+Non Government,No,Yes,Low,Mid,Mobile Data,3G,Mobile,Moderate
+Non Government,No,Yes,Low,Poor,Mobile Data,3G,Mobile,Low
+Non Government,Yes,Yes,High,Poor,Wifi,3G,Computer,Moderate
+Government,No,No,High,Mid,Mobile Data,2G,Mobile,Low
+Government,Yes,Yes,Low,Mid,Wifi,4G,Tab,Moderate
+Non Government,No,Yes,Low,Rich,Wifi,4G,Tab,High
+Non Government,No,Yes,Low,Poor,Mobile Data,3G,Mobile,Low
+Non Government,No,Yes,Low,Mid,Mobile Data,3G,Mobile,Moderate
+Non Government,No,Yes,Low,Rich,Wifi,4G,Mobile,High
+Non Government,No,Yes,Low,Mid,Mobile Data,3G,Mobile,Low
+Government,No,No,Low,Mid,Mobile Data,3G,Mobile,Low
+Non Government,No,No,Low,Mid,Wifi,4G,Mobile,Low
+Non Government,No,Yes,Low,Mid,Mobile Data,4G,Mobile,High
+Non Government,Yes,Yes,Low,Mid,Wifi,4G,Computer,Moderate
+Non Government,No,Yes,Low,Mid,Wifi,4G,Mobile,Moderate
+Non Government,No,Yes,Low,Mid,Wifi,4G,Mobile,Moderate
+Non Government,No,Yes,Low,Mid,Mobile Data,4G,Mobile,Moderate
+Government,No,No,Low,Mid,Wifi,4G,Mobile,Low
+Non Government,No,No,Low,Mid,Wifi,4G,Mobile,Moderate
+Non Government,Yes,Yes,High,Poor,Wifi,3G,Mobile,Low
+Non Government,Yes,Yes,Low,Mid,Wifi,4G,Computer,Low
+Government,No,Yes,Low,Mid,Wifi,3G,Mobile,Moderate
+Government,No,Yes,Low,Mid,Wifi,4G,Mobile,Moderate
+Non Government,No,Yes,Low,Mid,Wifi,3G,Mobile,High
+Government,No,No,Low,Mid,Mobile Data,3G,Mobile,Low
+Non Government,No,Yes,Low,Mid,Mobile Data,4G,Mobile,High
+Government,No,No,Low,Mid,Mobile Data,4G,Mobile,Moderate
+Non Government,No,Yes,Low,Mid,Mobile Data,3G,Mobile,Low
+Non Government,No,Yes,Low,Mid,Wifi,4G,Tab,Moderate
+Government,No,Yes,Low,Mid,Wifi,4G,Mobile,Low
+Non Government,No,Yes,Low,Mid,Wifi,4G,Tab,Moderate
+Non Government,Yes,Yes,Low,Rich,Wifi,4G,Computer,High
+Non Government,No,No,Low,Mid,Wifi,4G,Mobile,Moderate
+Non Government,No,Yes,High,Mid,Wifi,4G,Mobile,Moderate
+Government,No,Yes,Low,Mid,Wifi,4G,Mobile,Moderate
+Non Government,No,Yes,Low,Mid,Mobile Data,4G,Mobile,Low
+Non Government,Yes,Yes,Low,Mid,Wifi,4G,Mobile,Low
+Non Government,No,Yes,Low,Poor,Mobile Data,4G,Mobile,Moderate
+Government,Yes,No,Low,Poor,Mobile Data,4G,Mobile,Moderate
+Government,No,Yes,Low,Rich,Wifi,4G,Mobile,Moderate
+Non Government,No,No,High,Mid,Mobile Data,3G,Mobile,Low
+Government,No,Yes,Low,Mid,Wifi,4G,Mobile,Low
+Government,No,Yes,Low,Rich,Mobile Data,4G,Mobile,Moderate
+Government,No,Yes,Low,Mid,Mobile Data,3G,Mobile,Low
+Non Government,No,Yes,Low,Mid,Mobile Data,4G,Mobile,Moderate
+Non Government,No,Yes,Low,Mid,Wifi,4G,Mobile,Moderate
+Government,No,Yes,Low,Mid,Mobile Data,4G,Mobile,Low
+Government,No,No,High,Mid,Mobile Data,2G,Mobile,Low
+Non Government,No,Yes,Low,Mid,Mobile Data,4G,Mobile,Moderate
+Non Government,No,Yes,Low,Mid,Mobile Data,4G,Mobile,Moderate
+Non Government,No,Yes,Low,Mid,Mobile Data,4G,Mobile,Moderate
+Government,Yes,No,High,Mid,Mobile Data,3G,Mobile,Low
+Government,No,Yes,Low,Mid,Wifi,3G,Mobile,Moderate
+Government,No,No,High,Mid,Mobile Data,3G,Mobile,Low
+Non Government,Yes,Yes,Low,Mid,Mobile Data,3G,Mobile,Moderate
+Non Government,Yes,Yes,Low,Mid,Mobile Data,4G,Mobile,Moderate
+Non Government,No,Yes,Low,Mid,Mobile Data,4G,Mobile,High
+Government,No,Yes,Low,Mid,Mobile Data,4G,Mobile,Low
+Government,No,No,Low,Poor,Mobile Data,4G,Mobile,Low
+Non Government,No,Yes,High,Poor,Wifi,4G,Mobile,Low
+Non Government,No,Yes,High,Mid,Wifi,4G,Computer,Low
+Government,No,No,Low,Mid,Mobile Data,4G,Mobile,Low
+Government,No,Yes,Low,Mid,Wifi,4G,Computer,Low
+Non Government,No,Yes,Low,Poor,Mobile Data,3G,Mobile,Low
+Government,No,No,Low,Rich,Mobile Data,4G,Mobile,High
+Non Government,No,Yes,Low,Mid,Mobile Data,4G,Mobile,Low
+Non Government,No,Yes,Low,Mid,Mobile Data,4G,Mobile,Moderate
+Government,No,Yes,Low,Rich,Wifi,4G,Mobile,Low
+Government,No,No,Low,Poor,Mobile Data,4G,Mobile,Moderate
+Non Government,No,Yes,High,Poor,Wifi,4G,Mobile,Low
+Non Government,No,No,High,Mid,Wifi,4G,Mobile,Moderate
+Non Government,Yes,Yes,High,Poor,Mobile Data,3G,Mobile,Moderate
+Non Government,No,Yes,Low,Mid,Mobile Data,4G,Mobile,Moderate
+Non Government,No,Yes,Low,Mid,Mobile Data,4G,Mobile,Moderate
+Non Government,Yes,Yes,Low,Mid,Mobile Data,3G,Mobile,Moderate
+Non Government,No,Yes,Low,Rich,Wifi,4G,Computer,Moderate
+Non Government,No,Yes,High,Mid,Mobile Data,4G,Mobile,Moderate
+Non Government,No,Yes,Low,Poor,Mobile Data,4G,Mobile,Moderate
+Non Government,No,Yes,High,Poor,Wifi,4G,Mobile,Low
+Non Government,Yes,Yes,Low,Mid,Wifi,4G,Computer,Moderate
+Non Government,Yes,Yes,Low,Mid,Mobile Data,3G,Mobile,Moderate
+Government,No,No,Low,Mid,Mobile Data,2G,Mobile,Low
+Government,No,Yes,Low,Mid,Wifi,4G,Mobile,Low
+Government,No,No,Low,Mid,Mobile Data,4G,Mobile,Low
+Non Government,No,Yes,Low,Mid,Wifi,4G,Mobile,Moderate
+Government,No,No,High,Mid,Mobile Data,3G,Mobile,Low
+Non Government,No,Yes,Low,Mid,Mobile Data,4G,Mobile,Moderate
+Government,No,No,Low,Mid,Mobile Data,4G,Mobile,Low
+Non Government,No,Yes,Low,Rich,Mobile Data,3G,Mobile,Moderate
+Non Government,No,Yes,Low,Mid,Wifi,4G,Tab,Moderate
+Non Government,Yes,No,Low,Mid,Mobile Data,3G,Computer,Moderate
+Non Government,No,Yes,Low,Mid,Mobile Data,4G,Mobile,Moderate
+Government,No,Yes,Low,Mid,Mobile Data,4G,Mobile,Low
+Non Government,Yes,Yes,Low,Mid,Wifi,4G,Computer,Moderate
+Government,No,No,Low,Mid,Mobile Data,4G,Mobile,High
+Non Government,No,Yes,High,Mid,Wifi,4G,Computer,Low
+Non Government,No,Yes,Low,Mid,Mobile Data,4G,Mobile,Low
+Government,No,No,High,Mid,Mobile Data,3G,Mobile,Low
+Non Government,No,Yes,Low,Mid,Wifi,4G,Mobile,Moderate
+Government,No,Yes,Low,Mid,Wifi,3G,Mobile,Low
+Non Government,No,Yes,Low,Mid,Wifi,3G,Mobile,High
+Non Government,No,No,Low,Mid,Wifi,4G,Mobile,Low
+Non Government,No,Yes,Low,Mid,Mobile Data,4G,Mobile,High
+Non Government,Yes,Yes,Low,Rich,Wifi,4G,Computer,Moderate
+Non Government,No,No,Low,Mid,Wifi,4G,Mobile,Low
+Non Government,No,Yes,Low,Mid,Wifi,4G,Mobile,Low
+Non Government,Yes,Yes,Low,Mid,Wifi,4G,Mobile,Moderate
+Government,No,Yes,Low,Mid,Mobile Data,3G,Mobile,Low
+Non Government,No,Yes,Low,Rich,Wifi,3G,Mobile,High
+Non Government,No,Yes,High,Poor,Wifi,4G,Mobile,Low
+Non Government,No,Yes,Low,Mid,Wifi,4G,Tab,Moderate
+Non Government,No,Yes,High,Mid,Mobile Data,3G,Mobile,Moderate
+Government,Yes,No,High,Mid,Mobile Data,3G,Mobile,Low
+Non Government,No,Yes,High,Mid,Wifi,4G,Mobile,Moderate
+Government,Yes,Yes,Low,Mid,Mobile Data,3G,Computer,Low
+Non Government,No,Yes,Low,Mid,Wifi,4G,Tab,Moderate
+Non Government,No,Yes,Low,Mid,Mobile Data,4G,Mobile,Moderate
+Non Government,No,Yes,Low,Mid,Mobile Data,4G,Mobile,Moderate
+Non Government,No,Yes,Low,Poor,Mobile Data,3G,Mobile,Moderate
+Non Government,No,Yes,Low,Mid,Mobile Data,4G,Mobile,Moderate
+Non Government,Yes,Yes,Low,Mid,Wifi,3G,Mobile,Moderate
+Government,No,Yes,Low,Rich,Wifi,4G,Mobile,Moderate
+Non Government,No,Yes,High,Poor,Wifi,4G,Mobile,Low
+Government,No,No,Low,Mid,Mobile Data,4G,Mobile,Low
+Government,No,No,Low,Mid,Mobile Data,3G,Mobile,Low
+Non Government,No,Yes,Low,Rich,Wifi,4G,Tab,Moderate
+Government,No,Yes,Low,Mid,Wifi,4G,Mobile,Low
+Non Government,Yes,Yes,Low,Rich,Wifi,4G,Computer,Moderate
+Non Government,No,Yes,High,Poor,Wifi,4G,Mobile,Low
+Government,No,No,Low,Poor,Mobile Data,4G,Mobile,Low
+Non Government,Yes,No,Low,Mid,Mobile Data,3G,Computer,Moderate
+Non Government,Yes,Yes,Low,Mid,Wifi,3G,Computer,Moderate
+Non Government,No,Yes,Low,Mid,Wifi,4G,Computer,Moderate
+Non Government,No,Yes,Low,Mid,Mobile Data,3G,Mobile,Moderate
+Government,Yes,Yes,Low,Rich,Wifi,4G,Computer,High
+Government,No,No,Low,Mid,Mobile Data,3G,Mobile,Low
+Government,No,No,High,Mid,Wifi,4G,Mobile,Low
+Non Government,Yes,Yes,High,Mid,Mobile Data,3G,Mobile,Moderate
+Non Government,Yes,Yes,Low,Mid,Wifi,3G,Mobile,Moderate
+Non Government,Yes,Yes,Low,Mid,Wifi,4G,Computer,Moderate
+Non Government,No,Yes,Low,Mid,Mobile Data,4G,Mobile,High
+Government,No,Yes,Low,Mid,Wifi,4G,Mobile,High
+Government,No,Yes,Low,Mid,Wifi,3G,Mobile,Low
+Non Government,Yes,Yes,Low,Mid,Mobile Data,3G,Mobile,Moderate
+Non Government,Yes,Yes,High,Mid,Wifi,4G,Computer,Low
+Non Government,No,Yes,Low,Mid,Mobile Data,4G,Mobile,High
+Government,No,Yes,High,Mid,Mobile Data,4G,Mobile,Moderate
+Non Government,No,Yes,Low,Mid,Mobile Data,3G,Mobile,Moderate
+Government,No,No,High,Poor,Mobile Data,2G,Mobile,Low
+Non Government,No,No,Low,Mid,Mobile Data,3G,Mobile,Low
+Government,No,Yes,Low,Mid,Wifi,4G,Mobile,Moderate
+Non Government,No,No,Low,Mid,Wifi,4G,Mobile,Moderate
+Non Government,No,Yes,Low,Mid,Mobile Data,4G,Mobile,Moderate
+Non Government,Yes,No,High,Poor,Mobile Data,3G,Mobile,Moderate
+Non Government,No,Yes,Low,Rich,Wifi,4G,Mobile,Moderate
+Government,Yes,No,Low,Mid,Mobile Data,4G,Mobile,Low
+Non Government,Yes,Yes,Low,Mid,Mobile Data,4G,Mobile,Moderate
+Government,No,Yes,Low,Mid,Mobile Data,4G,Mobile,Low
+Government,No,No,High,Mid,Mobile Data,3G,Mobile,Low
+Non Government,No,Yes,Low,Mid,Mobile Data,3G,Mobile,Moderate
+Non Government,No,Yes,Low,Poor,Mobile Data,3G,Mobile,Low
+Non Government,No,No,Low,Mid,Mobile Data,3G,Mobile,Low
+Government,No,Yes,Low,Mid,Wifi,4G,Mobile,Moderate
+Non Government,No,No,Low,Mid,Mobile Data,4G,Mobile,Low
+Non Government,Yes,Yes,Low,Rich,Wifi,4G,Computer,High
+Non Government,Yes,Yes,High,Mid,Wifi,3G,Mobile,Moderate
+Non Government,Yes,Yes,Low,Rich,Wifi,4G,Mobile,Low
+Non Government,No,No,High,Mid,Wifi,4G,Mobile,Moderate
+Non Government,No,Yes,Low,Poor,Wifi,3G,Mobile,Moderate
+Non Government,No,Yes,High,Poor,Wifi,4G,Mobile,Low
+Non Government,No,Yes,Low,Mid,Mobile Data,4G,Mobile,Moderate
+Government,No,Yes,Low,Mid,Wifi,4G,Mobile,Moderate
+Non Government,Yes,Yes,Low,Mid,Mobile Data,3G,Mobile,Moderate
+Non Government,No,Yes,Low,Rich,Mobile Data,3G,Mobile,Moderate
+Government,No,No,Low,Mid,Wifi,4G,Mobile,Moderate
+Non Government,No,Yes,Low,Mid,Wifi,3G,Mobile,High
+Non Government,No,Yes,Low,Poor,Mobile Data,3G,Mobile,Moderate
+Non Government,No,Yes,Low,Mid,Mobile Data,3G,Mobile,Low
+Non Government,No,Yes,Low,Poor,Mobile Data,4G,Mobile,Moderate
+Government,No,Yes,Low,Mid,Wifi,3G,Mobile,Moderate
+Government,No,No,High,Poor,Mobile Data,3G,Mobile,Moderate
+Non Government,No,No,Low,Mid,Mobile Data,3G,Mobile,Low
+Non Government,No,Yes,Low,Poor,Mobile Data,3G,Mobile,Low
+Non Government,No,Yes,Low,Rich,Wifi,3G,Mobile,High
+Non Government,No,Yes,Low,Poor,Mobile Data,3G,Mobile,Low
+Government,No,Yes,High,Mid,Mobile Data,4G,Mobile,Moderate
+Government,No,Yes,Low,Mid,Mobile Data,4G,Mobile,Moderate
+Non Government,No,No,High,Mid,Wifi,4G,Mobile,Moderate
+Non Government,Yes,Yes,Low,Mid,Mobile Data,3G,Mobile,Moderate
+Non Government,No,Yes,Low,Mid,Mobile Data,4G,Mobile,Moderate
+Non Government,No,Yes,Low,Mid,Mobile Data,4G,Mobile,Moderate
+Government,No,Yes,Low,Mid,Wifi,4G,Mobile,Moderate
+Government,Yes,Yes,Low,Mid,Wifi,4G,Tab,Moderate
+Non Government,Yes,No,High,Mid,Mobile Data,3G,Computer,Low
+Government,No,Yes,Low,Rich,Wifi,4G,Mobile,Moderate
+Non Government,Yes,No,High,Mid,Mobile Data,3G,Computer,Low
+Government,No,Yes,Low,Mid,Mobile Data,4G,Mobile,Low
+Non Government,No,Yes,Low,Mid,Wifi,4G,Mobile,Moderate
+Non Government,No,Yes,Low,Poor,Mobile Data,3G,Mobile,Moderate
+Non Government,No,Yes,High,Poor,Wifi,4G,Mobile,Low
+Non Government,No,Yes,Low,Mid,Wifi,4G,Mobile,Low
+Government,No,Yes,Low,Mid,Mobile Data,3G,Mobile,Moderate
+Non Government,No,Yes,Low,Mid,Mobile Data,4G,Mobile,Moderate
+Non Government,No,Yes,High,Mid,Wifi,4G,Mobile,Low
+Non Government,Yes,Yes,Low,Mid,Wifi,4G,Computer,Moderate
+Non Government,No,Yes,Low,Mid,Wifi,4G,Computer,Moderate
+Non Government,No,No,Low,Mid,Wifi,4G,Mobile,Moderate
+Non Government,Yes,No,Low,Mid,Mobile Data,3G,Mobile,Moderate
+Government,No,Yes,Low,Mid,Wifi,4G,Mobile,Low
+Non Government,Yes,No,Low,Mid,Mobile Data,3G,Mobile,Moderate
+Non Government,No,Yes,Low,Rich,Mobile Data,3G,Mobile,High
+Government,No,Yes,Low,Mid,Mobile Data,4G,Mobile,Low
+Non Government,No,No,Low,Mid,Mobile Data,3G,Mobile,Low
+Government,No,No,Low,Mid,Wifi,4G,Mobile,Low
+Government,Yes,Yes,Low,Mid,Wifi,4G,Tab,Moderate
+Non Government,No,Yes,Low,Mid,Wifi,4G,Computer,Moderate
+Non Government,No,Yes,Low,Mid,Mobile Data,4G,Mobile,Moderate
+Government,No,Yes,High,Mid,Mobile Data,4G,Mobile,Moderate
+Non Government,No,No,Low,Mid,Mobile Data,3G,Mobile,Low
+Government,No,No,Low,Mid,Mobile Data,4G,Mobile,Low
+Government,No,Yes,Low,Mid,Wifi,4G,Mobile,Low
+Non Government,No,Yes,Low,Mid,Mobile Data,4G,Mobile,Moderate
+Non Government,Yes,Yes,Low,Mid,Mobile Data,4G,Mobile,Moderate
+Non Government,Yes,No,High,Mid,Mobile Data,3G,Computer,Low
+Non Government,No,Yes,Low,Poor,Mobile Data,4G,Mobile,Moderate
+Government,Yes,Yes,Low,Mid,Wifi,4G,Mobile,Moderate
+Government,Yes,Yes,Low,Rich,Wifi,4G,Computer,High
+Government,No,No,Low,Mid,Mobile Data,2G,Mobile,Low
+Non Government,No,Yes,Low,Poor,Mobile Data,3G,Mobile,Moderate
+Non Government,Yes,No,High,Mid,Mobile Data,3G,Mobile,Moderate
+Government,No,No,Low,Mid,Mobile Data,3G,Mobile,Low
+Non Government,Yes,No,High,Poor,Mobile Data,3G,Mobile,Moderate
+Non Government,No,Yes,Low,Mid,Mobile Data,4G,Mobile,Moderate
+Non Government,No,Yes,Low,Mid,Mobile Data,4G,Mobile,Moderate
+Non Government,Yes,No,High,Mid,Mobile Data,3G,Mobile,Moderate
+Non Government,No,Yes,Low,Mid,Wifi,4G,Computer,Moderate
+Government,No,Yes,Low,Mid,Mobile Data,4G,Mobile,Low
+Non Government,Yes,No,Low,Mid,Wifi,4G,Computer,Moderate
+Non Government,No,No,Low,Mid,Mobile Data,3G,Mobile,Low
+Non Government,Yes,No,High,Poor,Mobile Data,3G,Mobile,Moderate
+Government,Yes,Yes,Low,Rich,Wifi,4G,Mobile,High
+Government,No,No,High,Mid,Mobile Data,4G,Mobile,Low
+Government,No,No,Low,Mid,Mobile Data,4G,Mobile,Low
+Government,No,Yes,Low,Mid,Mobile Data,4G,Mobile,Moderate
+Non Government,No,Yes,Low,Poor,Mobile Data,3G,Mobile,Low
+Government,Yes,Yes,Low,Rich,Wifi,4G,Computer,High
+Government,No,No,Low,Mid,Mobile Data,3G,Mobile,Low
+Non Government,No,Yes,Low,Mid,Mobile Data,4G,Mobile,Moderate
+Non Government,No,Yes,Low,Rich,Wifi,3G,Mobile,High
+Government,No,No,Low,Mid,Mobile Data,4G,Mobile,Low
+Government,Yes,Yes,Low,Mid,Mobile Data,4G,Mobile,Low
+Non Government,Yes,No,Low,Mid,Mobile Data,3G,Computer,Moderate
+Government,No,No,High,Poor,Mobile Data,4G,Mobile,Low
+Non Government,No,Yes,Low,Mid,Mobile Data,3G,Mobile,Moderate
+Non Government,No,Yes,Low,Poor,Mobile Data,3G,Mobile,Low
+Non Government,No,Yes,Low,Mid,Mobile Data,3G,Mobile,Moderate
+Non Government,No,No,Low,Mid,Wifi,4G,Mobile,Low
+Non Government,No,Yes,Low,Rich,Wifi,4G,Mobile,Moderate
+Non Government,Yes,Yes,High,Mid,Wifi,4G,Mobile,Low
+Non Government,Yes,Yes,Low,Mid,Wifi,3G,Mobile,Moderate
+Non Government,No,Yes,Low,Mid,Mobile Data,3G,Mobile,Moderate
+Government,No,No,Low,Mid,Wifi,4G,Mobile,Low
+Non Government,Yes,Yes,High,Poor,Wifi,4G,Computer,High
+Non Government,No,No,Low,Mid,Mobile Data,3G,Mobile,Low
+Non Government,Yes,Yes,High,Poor,Wifi,4G,Computer,High
+Government,No,No,High,Mid,Mobile Data,3G,Mobile,Low
+Non Government,Yes,Yes,Low,Mid,Mobile Data,4G,Computer,Moderate
+Government,Yes,No,Low,Mid,Mobile Data,4G,Mobile,Low
+Non Government,Yes,Yes,Low,Mid,Wifi,4G,Computer,Low
+Non Government,No,Yes,Low,Mid,Wifi,4G,Mobile,Low
+Non Government,No,No,High,Mid,Wifi,4G,Mobile,Moderate
+Non Government,No,Yes,Low,Mid,Mobile Data,3G,Mobile,Moderate
+Non Government,No,No,Low,Mid,Wifi,4G,Mobile,Low
+Non Government,No,Yes,Low,Poor,Mobile Data,3G,Mobile,Moderate
